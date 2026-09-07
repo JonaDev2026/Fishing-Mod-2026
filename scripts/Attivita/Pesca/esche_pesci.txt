@@ -1,4 +1,5 @@
 # nome|amo|esche naturali|artificiali
+# Common Roach: il catalogo dice '#12 - #9', ma le misure d'amo sono pari e il #9 non esiste: corretto in '#12 - #8' (7 settembre 2026).
 # COSA MANGIA OGNI PESCE - preso dalla PAGINA DEL PESCE sul catalogo di Fishing
 # Planet, sezioni "Preferred baits" e "Preferred lures", piu' l'amo consigliato.
 # Le pagine stanno in riferimenti.
@@ -81,7 +82,7 @@ Common Dace|#2 - #1/0|Semolina Balls, Oat-flakes, Grasshoppers, Flies, Crickets,
 Common Ling|#4/0 - #7/0|Crab, Gulf Shrimp, Giant Tiger Prawn, Finger Mullets, Scaled Sardines|305 modelli: cucchiaino, mare, siliconico
 Common Minnow|#16|Red Worms, Pinkies, Maggots, Bloodworms, Natural Eggs, Caddis Larva|
 Common Nase|#8 - #6|Pearl Barley, Semolina Balls, Red Worms, Grasshoppers, Pinkies, Maggots, Bloodworms, Centipedes|
-Common Roach|#12 - #9|Pearl Barley, Dough Ball, Semolina Balls, Grasshoppers, Pinkies, Maggots, Bloodworms, Centipedes|
+Common Roach|#12 - #8|Pearl Barley, Dough Ball, Semolina Balls, Grasshoppers, Pinkies, Maggots, Bloodworms, Centipedes|
 Common Rudd|#12 - #10|Pearl Barley, Dough Ball, Semolina Balls, Grasshoppers, Maggots, Bloodworms|
 Common Shiner|#8|Dough Ball, Semolina Balls|
 Common Snook|#2/0 - #6/0|Shiners, Large Minnow, Shrimps, Crawfish Cuts, Finger Mullets, Scaled Sardines|161 modelli: cucchiaino, minnow, rotante, siliconico
