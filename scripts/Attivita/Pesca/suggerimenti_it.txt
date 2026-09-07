@@ -258,8 +258,8 @@ Al livello cento tutte le trentacinque acque sono aperte: dopo si sbloccano solo
 Pesce nero dell'Alaska: vive a Torrente di Tongva alto. Mangia a ogni ora, acqua fra 1 e 10 gradi. Esche: Mosche, Grilli, Effimere. Amo #6. Specie rara.
 Alalunga: vive a Vespucci Beach e molo di Del Perro, Isolotto di San Chianski e un'altra zona. Mangia di giorno, acqua fra 12 e 22 gradi. Esche: Sugarello giapponese, Cefaletti, Sardine squamate. Amo #4/0 - #7/0. Specie rara.
 Lepisosteo alligatore: vive a Palude di Zancudo ovest. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Pesciolini argentati, Gambero d'acqua dolce, Trancio di pesce grande. Amo #2/0 - #11/0. Specie rara.
-Alosa americana: vive a Palomino Highlands. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Mosche, Bigattini piccoli, Chironomi. Amo #8 - #4. Specie rarissima.
-Alosa americana: vive a Mount Chiliad e Cassidy Creek basso. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Uova naturali, Sacchetti di uova, Gamberetti. Amo #2 - #1/0.
+Alosa americana (American Gizzard Shad): vive a Palomino Highlands. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Mosche, Bigattini piccoli, Chironomi. Amo #8 - #4. Specie rarissima.
+Alosa americana (American Shad): vive a Mount Chiliad e Cassidy Creek basso. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Uova naturali, Sacchetti di uova, Gamberetti. Amo #2 - #1/0.
 Rodeo dell'Amur: vive a Cassidy Creek alto. Mangia di giorno, acqua fra 12 e 24 gradi. Esche: Orzo perlato, Pallina di pasta, Palline di semolino. Amo #16. Specie rara.
 Salmerino artico: vive a Faro di El Gordo e Molo di Paleto Cove. Mangia a ogni ora, acqua fra 1 e 10 gradi. Esche: Sacchetti di uova, Gamberetti, Gambero del Golfo. Amo #3/0 - #6/0. Specie rarissima.
 Temolo artico: vive a Cassidy Creek alto. Mangia di giorno, acqua fra 1 e 10 gradi. Esche: Cavallette, Grilli, Effimere. Amo #1/0 - #3/0. Specie rarissima.
@@ -480,7 +480,7 @@ Torneo Bass Challenge: persico trota a Fiume Zancudo basso, 45 minuti, livello 1
 Torneo Best Five Bass: boccapiccola a Cassidy Creek basso, 45 minuti, livello 14, iscrizione $750. Oro a 13 kg, premio $10500.
 Torneo Big Bowfin Hunting: amia a Palude di Zancudo est, 30 minuti, livello 18, iscrizione $390. Oro a 8 kg, premio $5460.
 Torneo Big Headhunters: carpa a Mirror Park, 45 minuti, livello 42, iscrizione $2010. Oro a 56 kg, premio $28140.
-Torneo Breaking shad: alosa americana a Mount Chiliad, 30 minuti, livello 30, iscrizione $570. Oro a 12 kg, premio $7980.
+Torneo Breaking shad: alosa americana (American Shad) a Mount Chiliad, 30 minuti, livello 30, iscrizione $570. Oro a 12 kg, premio $7980.
 Torneo Carp Foundation: carpa a Fiume Zancudo alto, 60 minuti, livello 42, iscrizione $2010. Oro a 56 kg, premio $28140.
 Torneo Catch em' All: tutti i pesci del lago a Laghetti del golf, 30 minuti, livello 4, iscrizione $300. Oro a 5.5 kg, premio $4200.
 Torneo Catfish Trial: pesce gatto punteggiato a Slab, 45 minuti, livello 26, iscrizione $1290. Oro a 28 kg, premio $18060.
