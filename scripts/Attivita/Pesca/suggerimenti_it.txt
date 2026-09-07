@@ -3,66 +3,526 @@
 # Scritti in linguaggio da giocatore, ma dicono solo cose che il gioco fa davvero.
 # La stessa riga in suggerimenti_en.txt e' la traduzione: l'ordine deve combaciare.
 # Ogni suggerimento deve stare in sette righe del riquadro: circa 300 caratteri.
-La temperatura dell'acqua conta: ogni pesce ha la sua. Con l'acqua fredda escono le trote, con l'acqua calda le carpe e i pesci gatto. La vedi sull'HUD, accanto a quella dell'aria.
-Non tutti i pesci mangiano alla stessa ora. Alcuni si muovono di notte, altri all'alba e al tramonto, altri in pieno giorno. Se non abbocca nulla, prova a cambiare orario.
-Nella scheda della zona c'e' il grafico dell'attivita' dei pesci ora per ora. Le ore in cui la curva e' alta sono quelle buone per pescare.
-Ogni pesce ha le sue esche preferite. Le trovi nella sua scheda, dentro ZONE. Con l'esca giusta abbocca sempre, con quella sbagliata spesso se ne va.
-Con l'esca sbagliata ogni tanto all'amo si attacca un rifiuto: una scarpa, un copertone, una bottiglia. Con l'esca giusta non succede mai.
-Senza niente all'amo non abbocca nessuno. Prima di lanciare controlla di avere un'esca o un artificiale in punta.
-La misura dell'amo va scelta in base al pesce: ami piccoli per i pesci piccoli, ami grandi per quelli grossi. Nella scheda di ogni pesce c'e' la sua misura.
-Con un amo grande prendi i pesci piu' grossi di quella specie, ma con un amo troppo grande il pesce piccolo non abbocca. Scegli in base a cosa vuoi portare a casa.
-Gli ami vanno dal numero 16, il piu' piccolo, al numero 1. Poi si passa alle misure con lo zero, dall'1/0 al 18/0: piu' e' alto il numero, piu' e' grande l'amo.
-Lucci, bass e altri predatori coi denti tranciano la lenza. Contro di loro monta un leader in titanio prima dell'amo.
-I predatori con l'esca naturale abboccano poco, e quasi solo i piccoli. Per loro servono gli artificiali: cucchiaini, minnow, siliconici.
-Nella scheda di ogni predatore c'e' la lista degli artificiali che insegue. Con uno di quelli abbocca volentieri, con gli altri quasi mai.
-Ogni famiglia di pesci vuole la sua canna: la carpa le canne da carpa e da fondo, i predatori spinning e casting, i pesci di mare le canne da mare. Con la canna sbagliata abbocca meno.
-Il cucchiaino si usa con una canna da spinning o da casting. Con una canna da galleggiante non serve quasi a niente.
-La canna, il mulinello e la lenza reggono ognuno un certo peso. Quello che puoi tirare su e' il piu' debole dei tre: lo leggi sull'HUD accanto alla canna.
-Un pesce piu' pesante di quello che reggi non lo prendi nemmeno. Se in una zona ci sono pesci grossi, porta attrezzatura piu' robusta.
-Per lanciare lontano l'esca deve avere il peso giusto per la canna: sulla canna e' scritto in grammi. Troppo leggera fa pochi metri, troppo pesante non parte.
-Piu' tieni premuto il tasto del lancio, piu' lontano arriva l'esca. Gli ultimi istanti di carica valgono piu' dei primi.
-Una lenza sottile va piu' lontano e ne entra di piu' nel mulinello, ma regge meno. Una lenza grossa regge di piu' ma frena il lancio.
-Una canna lunga lancia piu' lontano di una corta.
-La frizione del mulinello si regola con la croce, a sinistra e a destra. Chiusa tutta, il pesce tira sulla lenza e la tensione sale in fretta. Piu' e' aperta, piu' il pesce si porta via filo.
-Durante la lotta guarda la barra della tensione: se resta nel rosso la lenza si spezza. Molla il recupero quando il pesce corre, riprendi quando si ferma.
-Gli ultimi metri sono i piu' difficili: vicino alla riva il pesce si impunta. Non forzare proprio alla fine.
-Quando il pesce abbocca hai poco piu' di un secondo per agganciarlo con A. Il galleggiante che balla e il pad che vibra ti avvisano poco prima.
-A galleggiante, se tiri forte mentre il pesce assaggia l'esca lo spaventi. Recupera piano e aspetta che affondi.
-La profondita' dell'esca sotto il galleggiante si regola con la croce, su e giu'. Alcuni pesci mangiano vicino al fondo, altri a mezz'acqua.
-Se sull'HUD il galleggiante si corica sull'acqua, l'esca tocca il fondo. Accorcia la profondita'.
-Il galleggiante ha una portata: leggera, media o pesante. Deve reggere il piombo e l'esca che ci metti sotto.
-Il cucchiaino e il galleggiante non si usano insieme. A spinning l'artificiale fa da esca e da amo.
-Se il lancio finisce sul prato o sull'asfalto, la lenza rientra da sola. Cerca uno spazio libero verso l'acqua.
-Quando la lenza si spezza perdi l'amo, il galleggiante e l'esca. Con un leader montato si spezza solo il leader e la lenza resta intera.
-La nassa ha due limiti: il peso del singolo pesce piu' grosso che ci sta e il peso totale. Quando e' piena, il pesce lo puoi solo ributtare.
-Mentre peschi, sotto la nassa nell'HUD vedi cosa hai gia' preso oggi.
-Per uscire a pescare servono almeno una canna, un mulinello con la lenza e una nassa.
-Prima di uscire carica lo zaino dalla scheda EQUIPAGGIAMENTO. Quello che lasci a casa, a casa resta: durante la giornata non ci torni.
-Lo zaino tiene una canna, un mulinello, due lenze e dieci oggetti. Un secondo pezzo uguale a uno che hai gia' non occupa posto.
-Il portacanne fa posto a piu' canne, mulinelli e lenze. La cassetta a piu' oggetti. Basta possederli, anche se restano a casa.
-La lenza si compra a bobina. Montandola sul mulinello ne prendi solo quanta ce ne sta; il resto rimane come bobina da usare un'altra volta.
-Tieni premuto LB per aprire la ruota degli attrezzi. Scegli lo spicchio con la levetta, scorri i pezzi con la croce, lascia LB e si monta tutto.
-Nella ruota la prima voce di ogni spicchio e' Vuoto: serve a smontare quel pezzo.
-La licenza si compra dalla scheda ZONE, anche da lontano. Poi vai sul posto e premi Inizia a pescare. Vale per tutta l'acqua, non solo per il tratto dove sei.
-La licenza da tre giorni costa meno di tre licenze da un giorno. Se torni spesso nella stessa acqua conviene.
-Una giornata di pesca dura circa due ore vere. Alla fine il pesce nella nassa si vende da solo e l'attrezzatura montata torna nello zaino.
-Il pesce si vende a fine giornata, a peso. Piu' e' grosso e pregiato, piu' vale.
-L'attrezzatura si rivende a meta' prezzo, con X, da casa o dallo zaino.
-Prendere una specie nuova vale molto piu' che riprendere sempre la stessa. Per salire di livello cambia pesci, non solo posto.
-L'esca giusta fa abboccare il pesce, l'amo giusto ne apre la taglia. I punti li fanno le specie nuove e i pesci grossi.
-I trofei e gli esemplari unici valgono molto di piu' dei pesci comuni, in punti e in soldi.
-Dentro ogni acqua ci sono punti dove una specie sta di casa: una buca, una sponda, un canneto. Non sono segnati sulla mappa, si scoprono provando.
-Al largo, sui punti profondi, i pesci sono piu' grossi. Non pescare sempre sotto riva.
-I pesci che vedi passare sott'acqua sono quelli che vivono in quell'acqua. Ti dicono cosa c'e', non cosa abbocchera'.
-Se non abbocca nulla chiediti quattro cose: che ora e', che temperatura ha l'acqua, che amo hai e che esca hai.
-Le acque grandi hanno piu' tratti di riva, e ogni tratto ha i suoi pesci e il suo livello. Guardali nella scheda ZONE.
-Il diario, scheda DIARIO, tiene per ogni zona i pesci che hai preso e per ogni specie il tuo record, con l'esca e l'amo che hai usato.
-Nella scheda della zona le tre caselle comune, trofeo e unico si segnano quando li prendi in quel posto. La barra dell'esplorazione dice quante specie del posto hai scoperto.
-Salendo di livello si sbloccano attrezzatura e zone nuove. Al livello 100 tutte le 35 acque sono aperte.
-I tornei stanno nella scheda TORNEI. Compri il biglietto, vai sul posto e premi Inizia il torneo. Ogni torneo e' su un solo pesce, nell'acqua dove vive.
-Non puoi iscriverti a un torneo con una licenza in tasca, e non puoi comprare la licenza con un biglietto in tasca. Prima finisci una cosa, poi l'altra.
-Nel torneo vince chi mette insieme piu' chili di quel pesce. Bronzo, argento e oro hanno ciascuno il suo premio, e trofei e unici danno un extra.
-Il menu si apre con RB + SINISTRA della croce, o con F7. Dentro al menu il gioco e' fermo: prenditi il tempo che vuoi.
-La guida completa sta nel menu, scheda IMPOSTAZIONI, voce Guida. Li' cambi anche lingua e unita' di misura.
-I pesci rari sono rari davvero. Per prenderli serve tutto insieme: il loro punto, la loro ora, il loro amo e la loro esca.
-Ogni acqua della mappa ha i pesci di un'acqua vera: l'Alamo Sea e' un lago americano di pesci gatto e bass, il fiume Zancudo un torrente di trote, il mare di Paleto un fiordo del nord.
+# I primi 250 sono scritti a mano, dieci per argomento; gli altri sono ricavati
+# dai file dei dati: uno per specie, uno per zona, uno per torneo.
+Ogni canna ha un peso di lancio scritto in grammi: e' il peso che lancia bene. Con qualcosa di molto piu' leggero o molto piu' pesante in punta il lancio si accorcia.
+Una canna lunga lancia piu' lontano di una corta, a parita' di peso in punta. Se ti serve arrivare al largo, guarda prima la lunghezza.
+I nove tipi di canna sono: spinning, casting, da fondo, feeder, match, da carpa, telescopica, da mare, spod. Ognuno serve a una famiglia di pesci.
+Con la canna sbagliata per quel pesce le probabilita' scendono parecchio: con una match, da fondo o telescopica un po' meno, con le altre molto di piu'.
+Spinning, casting e da mare sono le canne da lancio: sono le uniche con cui l'artificiale rende davvero.
+La canna regge un certo peso di pesce. E' scritto sull'HUD accanto alla canna, insieme ai limiti di mulinello e lenza.
+Carpa, feeder, spod e fondo sono le canne della carpa. Con una di quelle in mano le carpe escono al massimo delle loro probabilita'.
+Lucci, bass e persici vogliono spinning o casting. Sono i predatori: canna da lancio e artificiale.
+Trote e salmoni si prendono con spinning, casting o match. Il resto delle canne li fa scendere.
+In mare servono le canne da mare o le casting. Una match sulla scogliera non e' la scelta giusta.
+Il mulinello ha una frizione in chili: e' il massimo che riesce a trattenere. Se il pesce pesa di piu', quel numero e' il tuo limite.
+La capacita' del mulinello e' scritta per diametro: piu' e' sottile la lenza, piu' metri ne entrano nella bobina.
+Il rapporto di recupero dice quanto filo raccogli a ogni giro. Un rapporto alto recupera piu' in fretta.
+Montando la lenza il mulinello ne prende solo quanta ne tiene: il resto rimane come bobina da parte.
+Sull'HUD il mulinello e' il cerchio in basso a destra, con l'anello della frizione intorno.
+Un mulinello con poca frizione va bene per i pesci piccoli: sui grossi cede prima lui della lenza.
+I mulinelli si dividono in spinning, casting e da mare, come le canne che li montano.
+Cambiare mulinello cambia anche quanti metri di lenza puoi tenere: guarda i metri sull'HUD dopo averlo montato.
+Il mulinello canta quando il pesce ti porta via filo e ticchetta quando sei tu a recuperare. A orecchio capisci chi sta vincendo.
+Un mulinello grosso su una canna leggera non serve a niente: conta sempre il pezzo piu' debole dei tre.
+Ci sono quattro tipi di lenza: monofilo, fluorocarbon, trecciato e lenze da mare.
+Ogni lenza ha tre numeri: il diametro in millimetri, i chili che regge e i metri della bobina.
+Una lenza sottile va piu' lontano e ne entra di piu' nel mulinello, ma regge meno peso.
+Una lenza grossa regge di piu' ma frena il lancio: qualche metro in meno a ogni tiro.
+La lenza si compra a bobina. Se il mulinello ne tiene meno, il resto resta come bobina separata da usare un'altra volta.
+Le bobine tagliate le trovi in EQUIPAGGIAMENTO sotto Lenze, con i metri che gli sono rimasti.
+Smontando la lenza dal mulinello ti torna una bobina con i metri che ci sono rimasti sopra.
+Quando la lenza si spezza perdi tre metri, l'amo, il piombo, il galleggiante e l'esca.
+Se hai il leader montato e la lenza cede, si spezza il leader: la lenza madre resta intera.
+Guarda i metri sull'HUD: se la bobina e' quasi vuota, un pesce che corre puo' portarti via tutto il filo.
+La frizione si regola con la croce, sinistra e destra, e ha dodici posizioni.
+Con la frizione tutta chiusa la lenza non cede: recuperi in fretta, ma la tensione sale altrettanto in fretta.
+Con la frizione aperta il pesce si porta via filo e tira molto meno sulla lenza. Si stanca lui, non la tua lenza.
+La regola pratica: chiudi quando il pesce e' fermo, apri quando parte.
+Sull'HUD la frizione e' l'anello a tacche attorno al mulinello, con la percentuale sotto.
+Con un pesce molto piu' pesante di quello che reggi la frizione chiusa e' rottura sicura.
+Con la frizione morbida i metri vengono via piano anche quando recuperi: e' il prezzo della sicurezza.
+La frizione si puo' cambiare in qualsiasi momento, anche in piena lotta. Anzi, e' li' che serve.
+Se la lenza si spezza spesso, prima di comprarne una piu' grossa prova ad aprire la frizione.
+La frizione conta anche sui metri che guadagni: chiusa ne prendi di piu' a ogni giro, ma con piu' tensione.
+Gli ami vanno dal #16, il piu' piccolo, al #1. Poi si passa alle misure con lo zero, dal #1/0 al #18/0.
+Nella scheda di ogni pesce, dentro ZONE, c'e' l'intervallo di ami che gli va bene.
+Con l'amo dentro il suo intervallo il pesce esce al massimo. Una misura fuori e le probabilita' calano gia' molto.
+Tre misure fuori dal suo intervallo e quel pesce non abbocca praticamente piu'.
+L'amo decide anche la taglia: con la misura piccola dell'intervallo escono solo i comuni.
+Dalla meta' dell'intervallo in su cominciano a uscire i trofei; con la misura piu' grande anche gli esemplari unici.
+Amo grande non vuol dire pesce grande garantito: apre il tetto, non ci porta. Il dado tira sempre verso il basso.
+In negozio gli ami sono #16, #14, #12, #10, #8, #6, #4, #2 e #1, poi le misure con lo zero.
+Ogni amo appartiene a una famiglia di pesci: quello giusto per la sua famiglia rende piu' di uno generico.
+Un amo specialista di un'altra famiglia lavora peggio di un amo generico. Se non hai il suo, meglio uno neutro.
+Oltre agli ami, nella stessa categoria ci sono testine piombate, rig gia' montati, leader e piombi.
+La testina piombata e' amo e piombo in un pezzo solo: serve per le esche morbide di silicone.
+Sulle testine il numero con il cancelletto e' la misura dell'amo, i grammi sono il piombo.
+Il leader e' il pezzo di filo prima dell'amo. Quello in titanio serve contro i pesci che hanno i denti.
+Col leader montato, se qualcosa cede si spezza lui e la lenza madre resta intera. Costa meno di una bobina.
+Il piombo da solo non pesca: in punta ci vuole sempre un amo, una testina, un rig o un artificiale.
+Il piombo aggiunge peso al lancio: con un'esca leggerissima e' l'unico modo per andare lontano.
+I rig gia' montati sono terminali completi: hanno la loro misura d'amo, come un amo singolo.
+Il piombo si misura in once sul catalogo, ma nella riga trovi anche i grammi veri.
+Amo, testina, rig: uno solo alla volta in punta. Il leader e il piombo hanno la loro casella a parte.
+Il galleggiante ha una portata: leggera, media o pesante. Dice quanto piombo regge.
+Sull'HUD il galleggiante e' disegnato in scala col fondo vero di quel punto d'acqua.
+Se il galleggiante si corica sull'acqua vuol dire che l'esca tocca il fondo: accorcia la profondita'.
+Il galleggiante e l'artificiale non si usano insieme: a spinning il cucchiaino fa da esca e da amo.
+Montare un artificiale smonta il galleggiante: sono due modi di pescare diversi.
+Un galleggiante da portata leggera con un piombo pesante sotto non e' la coppia giusta.
+La grandezza con cui vedi il galleggiante sull'acqua si cambia in IMPOSTAZIONI, prima voce.
+Il galleggiante e' il tuo segnale: quando balla il pesce sta assaggiando, quando sparisce ha preso.
+I galleggianti si dividono in classici, slider e waggler, con misure e forme diverse.
+Senza galleggiante si pesca lo stesso, a fondo: il galleggiante serve a vedere e a tenere l'esca sospesa.
+La profondita' dell'esca sotto il galleggiante si regola con la croce, su e giu'.
+Si va da tredici centimetri a due metri e mezzo, a passi di tredici centimetri.
+Sull'HUD, sotto il quadrante, c'e' scritta la profondita' impostata e, a lenza in acqua, il fondo vero.
+Se il fondo e' meno della profondita' impostata, l'esca striscia in terra e il galleggiante si corica.
+Alcuni pesci mangiano vicino al fondo, altri a mezz'acqua: se non abbocca, prova a cambiare profondita'.
+La profondita' si cambia anche prima del lancio, con la canna in mano: e' piu' comodo.
+Lanciando lontano il fondo cambia: la stessa profondita' che andava sotto riva puo' non andare piu'.
+Il quadrante dell'acqua sull'HUD ti dice anche che acqua e' quella: mare, lago o fiume, col suo fondale.
+A spinning la profondita' non conta: l'artificiale affonda e lavora mentre recuperi.
+Con l'esca a mezz'acqua eviti la robaccia che sta sul fondo, ma perdi i pesci di fondo.
+Le esche naturali sono di cinque famiglie: comuni, vermi e insetti, fresche, boilies e pellet, da mare.
+Ogni pesce ha le sue esche preferite: le trovi nella sua scheda, dentro ZONE.
+Con una delle sue esche il pesce abbocca sempre. Con un'altra abbocca una volta su tre.
+L'esca si consuma a ogni abboccata: quando finisce, l'amo resta nudo e non abbocca piu' nessuno.
+Con RB, o Q da tastiera, cambi esca fra quelle che hai nello zaino senza aprire il menu.
+Le esche si comprano a confezione: nella riga del negozio c'e' scritto quante ne prendi.
+Un pesce che sul catalogo non ha esche preferite abbocca a qualsiasi esca naturale.
+I boilies e i pellet sono roba da carpe: sui pesci piccoli non li usa quasi nessuno.
+Le esche da mare servono in mare: sui laghi valgono come un'esca sbagliata.
+Nella riga dell'esca c'e' anche la misura d'amo con cui si usa di solito.
+Gli artificiali sono di sei tipi: cucchiaini, rotanti, minnow e popper, jig da bass, siliconici, da mare.
+Ogni artificiale porta la misura del suo amo: conta per la taglia esattamente come un amo normale.
+I predatori con l'esca naturale abboccano poco e quasi solo piccoli: per loro serve l'artificiale.
+Nella scheda di ogni predatore c'e' la lista degli artificiali che insegue davvero.
+Un artificiale che quel pesce non insegue lo prende una volta su tre, come un'esca sbagliata.
+L'artificiale rende pieno solo con canna da spinning, casting o da mare. Con le altre quasi niente.
+L'artificiale non si consuma come l'esca: resta li' finche' non lo perdi con una rottura.
+I grammi dell'artificiale contano nel lancio: un cucchiaino pesante va molto piu' lontano.
+I siliconici si usano di solito con la testina piombata, che gli da' peso e amo.
+Col cucchiaino non serve il galleggiante e non serve regolare la profondita': si recupera e basta.
+Tieni premuto RT per caricare il lancio e molla per farlo partire. La barra si riempie mentre carichi.
+La barra del lancio non e' lineare: i primi colpetti fanno pochi metri, gli ultimi valgono tanto.
+Il peso in punta e' quello di artificiale, testina e piombo. L'esca naturale nel lancio non pesa.
+Se il peso in punta sta nel peso di lancio della canna, il lancio rende al massimo.
+Con un peso troppo leggero per quella canna il lancio si accorcia parecchio.
+Anche con un peso troppo pesante il lancio si accorcia: la canna non lo tira via.
+Se l'esca finisce sul prato o sull'asfalto la lenza rientra da sola: cerca uno specchio d'acqua libero.
+La distanza del lancio non cambia l'attesa e non cambia chi abbocca: conta solo per i punti caldi.
+La lenza sottile scorre meglio negli anelli e allunga il lancio; quella grossa lo frena.
+Prima di lanciare puoi camminare lungo la riva con la canna in mano e scegliere il punto.
+Quanto aspetti dipende da quanto e' viva l'acqua adesso, non dalla fortuna.
+Se nel posto c'e' un pesce alla sua temperatura ottima, l'attesa e' di circa un minuto.
+Se i pesci del posto stanno tutti ai bordi del loro intervallo, l'attesa sale a due minuti e mezzo.
+Se nessun pesce del posto e' nel suo intervallo di temperatura, si arriva anche a sei o sette minuti.
+Recuperare piano mentre aspetti accorcia un po' l'attesa e muove l'esca.
+Se aspetti troppo, cambia ora o cambia posto: e' l'acqua che e' ferma, non la tua attrezzatura.
+Il grafico dell'attivita' sull'HUD dice a colpo d'occhio se questa e' un'ora buona.
+Durante l'attesa il galleggiante sta fermo davvero: non e' il gioco che si e' bloccato.
+A galleggiante, tirare forte mentre il pesce assaggia lo spaventa e se ne va.
+Negli ultimi secondi prima dell'abboccata il galleggiante balla e il pad vibra: preparati.
+Quando il pesce prende, il galleggiante sparisce, il pad vibra forte e in basso compare l'invito ad agganciare.
+Hai un secondo e mezzo per premere A e agganciare. Dopo, il pesce se n'e' andato.
+Se non hai agganciato, l'esca resta e riparte l'attesa: non hai perso niente, solo tempo.
+Non serve premere A prima: agganciare a vuoto non anticipa l'abboccata.
+Tieni le mani sui tasti quando il galleggiante comincia a ballare: e' l'ultimo avviso.
+Il pad vibra due volte diverse: piano quando assaggia, forte quando ha preso.
+Senza esca all'amo non abbocca nessuno: prima di lanciare controlla di averne una.
+Se l'esca e' finita durante la giornata, la trovi a zero nel cerchio dell'HUD.
+Ogni abboccata consuma un'esca, anche quando il pesce poi si stacca.
+A spinning l'abboccata arriva mentre recuperi: il colpo si sente sulla canna.
+Durante la lotta tieni RT per recuperare. La barra sopra la frizione e' la tensione della lenza.
+La tensione passa da blu a verde, giallo e rosso. Nel rosso la lenza e' al limite.
+Se la tensione resta al massimo per piu' di un attimo, la lenza si spezza. C'e' un margine, non e' immediato.
+Molla il recupero quando il pesce corre, riprendi quando si ferma: e' tutta qui la lotta.
+Se tiri tu e tira lui, la lenza non fa metri: sta ferma e si carica di tensione.
+Il pesce si stanca man mano: le corse diventano piu' rare e piu' corte, ma non spariscono mai del tutto.
+Un pesce vicino al limite della tua attrezzatura si stanca molto piu' piano di un pesciolino.
+Gli ultimi metri sono i piu' duri: vicino a riva il pesce vede la sponda e si impunta.
+Sotto i quattro metri il pesce fa un'ultima corsa: e' li' che si perdono i pesci grossi.
+Con la levetta sinistra sposti la canna a destra e a sinistra e ti porti dietro il pesce.
+Alcuni pesci hanno i denti: lucci, barracuda, squali e altri predatori.
+Un pesce coi denti sopra il chilo e due, senza leader, ti trancia la lenza dopo qualche secondo.
+Contro i pesci coi denti monta il leader, meglio se in titanio: e' fatto per quello.
+Se la lenza si spezza subito dopo l'aggancio e il messaggio parla di denti, ti serviva il leader.
+I pesci coi denti piccoli si prendono anche col filo nudo: e' il peso che fa la differenza.
+Nella scheda del pesce vedi se e' un predatore: quelli con gli artificiali quasi sempre mordono.
+Il leader non toglie probabilita' di abboccata: montarlo per sicurezza non ti costa niente.
+Col leader, quando qualcosa cede, perdi il leader e non la bobina intera.
+Se peschi in un'acqua piena di lucci, il leader mettilo prima del primo lancio.
+Il pesce coi denti non trancia subito: hai qualche secondo per capire cosa e' abboccato.
+Ogni specie ha tre taglie: comune, trofeo ed esemplare unico, con pesi diversi.
+Il peso minimo che puo' uscire e' poco piu' della meta' del peso comune di quella specie.
+Il tetto della taglia lo decide l'amo che hai montato, dentro l'intervallo del pesce.
+Il tetto non supera mai quello che regge la tua attrezzatura: con canna leggera niente pesci enormi.
+Sul punto caldo profondo, al largo, la taglia si sposta verso l'alto.
+Col predatore preso a esca naturale escono quasi solo pesci piccoli.
+Dopo un esemplare unico, quella specie non ne da' altri per venti minuti veri.
+Dopo un trofeo, niente altri trofei di quella specie per cinque minuti.
+La pausa vale per specie: l'unico di luccio non blocca l'unico di carpa.
+Ai laghetti del golf escono solo pesci comuni: e' un posto per imparare, non per i record.
+La nassa ha due limiti: il pesce singolo piu' grosso che ci sta e il peso totale.
+Se il pesce e' troppo grosso per la tua nassa, la scheda te lo dice e puoi solo ributtarlo.
+Con la nassa piena la giornata e' finita: conviene chiuderla e vendere.
+Mentre peschi, sotto la nassa nell'HUD vedi i chili che hai gia' dentro.
+In EQUIPAGGIAMENTO, sotto Nasse, c'e' la lista dei pesci presi oggi.
+Il pesce nella nassa si vende da solo a fine giornata: non devi fare altro.
+Un pesce ributtato ti lascia comunque i punti e il segno sul diario: perdi solo i soldi.
+Si porta una nassa alla volta: se ne compri una piu' grande, l'altra resta a casa.
+I fili portapesce sono nasse piccole ed economiche: per cominciare vanno benissimo.
+Una nassa grande costa, ma e' quella che decide quanto puoi guadagnare in una giornata.
+Lo zaino base tiene una canna, un mulinello, due lenze e dieci oggetti.
+Gli oggetti si contano per tipo, non per pezzo: dieci ami uguali occupano un posto solo.
+Un secondo cucchiaino uguale a uno che hai gia' non occupa posto in piu'.
+Il portacanne aggiunge posti per canne, mulinelli e lenze. Basta possederlo, anche se resta a casa.
+La cassetta aggiunge posti per oggetti e lenze. Anche lei conta ovunque stia.
+Gli spazi si sommano: zaino piu' portacanne piu' cassetta.
+Se possiedi due cassette conta la piu' capiente, non la somma delle due.
+Prima di uscire carica lo zaino: durante la giornata la casa e' chiusa.
+Quello che hai lasciato a casa, a casa resta: niente scorciatoie a meta' giornata.
+Nel dubbio porta un amo in piu' e una lenza in piu': sono gli oggetti che si perdono davvero.
+Tutto quello che compri finisce a casa. La casa ha spazio illimitato.
+In EQUIPAGGIAMENTO A sposta un pezzo fra casa e zaino, X lo vende, Y lo getta.
+L'attrezzatura si rivende a meta' prezzo, e solo da casa: in riva non si vende.
+Vendere e gettare chiedono conferma: il secondo tasto conferma davvero.
+Mentre peschi il negozio resta aperto ma costa il triplo: e' il chiosco sul posto.
+Il triangolino verde in negozio segna quello che possiedi gia': a casa, nello zaino o montato.
+Il livello scritto in giallo e' quello che serve per comprare. In rosso vuol dire che non ci arrivi.
+Comprando mentre peschi il pezzo va dritto nello zaino, se c'e' posto.
+I prezzi dell'attrezzatura sono quelli del catalogo divisi per dieci.
+Organizzarsi prima fa risparmiare: il chiosco sul posto e' comodo ma caro.
+La licenza si compra dalla scheda ZONE, anche da lontano, e resta in tasca.
+La giornata parte solo quando sei sul posto e premi Inizia a pescare.
+La licenza vale per tutta l'acqua, non per il singolo tratto di riva.
+La licenza da tre giorni costa meno di tre licenze da un giorno.
+Il prezzo della licenza dipende dal tratto e dal tuo livello: paghi per quello che puoi pescare.
+La giornata parte alle cinque del mattino e dura circa due ore vere.
+Un minuto di gioco passa ogni cinque secondi veri: la giornata scorre da sola.
+A fine giornata la nassa si svuota, il pesce si vende e l'attrezzatura montata torna nello zaino.
+Smetti di pescare, nella scheda ZONE, chiude la giornata in anticipo: la licenza finisce li'.
+Puoi chiudere il gioco a meta' giornata: al prossimo avvio riparti dalla stessa ora.
+La temperatura dell'aria e quella dell'acqua le vedi sull'HUD, in alto a sinistra.
+L'aria e' piu' fredda alle quattro del mattino e piu' calda verso le quattro del pomeriggio.
+Il meteo sposta la temperatura di qualche grado: con il sole pieno l'acqua si scalda.
+In quota fa piu' freddo: sopra i cinquanta metri l'aria scende di mezzo grado ogni cento metri.
+L'acqua e' piu' stabile dell'aria: cambia piano e non segue tutti gli sbalzi del cielo.
+Ogni specie ha il suo intervallo di temperatura, con un valore ottimo nel mezzo.
+Alla sua temperatura ottima il pesce esce al massimo delle sue probabilita'.
+Ai bordi del suo intervallo il pesce esce molto meno: la temperatura conta davvero.
+Oltre quattro gradi fuori dal suo intervallo, quel pesce non esce proprio.
+Con l'acqua fredda escono trote e lucci, con l'acqua calda carpe e pesci gatto.
+Ogni specie ha le sue ore: c'e' chi mangia di notte, chi all'alba e al tramonto, chi in pieno giorno.
+La notte va dalle nove di sera alle cinque del mattino; alba e tramonto sono le due fasce di tre ore intorno.
+Un pesce notturno di giorno esce pochissimo: non e' sfortuna, e' l'ora sbagliata.
+I pesci dell'alba e del tramonto sono i piu' comodi: due finestre buone ogni giornata.
+Alcune specie mangiano a qualsiasi ora, ma mai al massimo: sono le piu' regolari.
+Il grafico dell'attivita' nella scheda della zona mostra le ore buone di quel posto.
+Lo stesso grafico e' sull'HUD mentre peschi, col puntino sull'ora di adesso.
+Se l'ora e' sbagliata per tutti i pesci del posto, l'attesa si allunga tantissimo.
+La giornata parte alle cinque: la prima ora e' gia' dentro la finestra dell'alba.
+Aspettare un paio d'ore di gioco sul posto costa pochi minuti veri e cambia tutto.
+Dentro ogni acqua ci sono punti dove una specie sta di casa: una buca, una sponda, un canneto.
+Sopra il suo punto quel pesce diventa sei volte piu' probabile degli altri.
+I punti caldi non sono segnati sulla mappa: si scoprono lanciando e provando.
+Sui punti profondi, al largo, la taglia si sposta verso l'alto: escono i pesci piu' grossi.
+Nei laghi grandi e in mare ci sono punti a cento e duecento metri dalla riva.
+Il centro del lago non e' vuoto: se hai la canna per arrivarci, provalo.
+Se in un punto abbocca sempre la stessa specie, ci sei sopra: restaci.
+Un punto caldo vale piu' di un'attrezzatura migliore, quando cerchi una specie precisa.
+I pesci rari si prendono quasi solo sui loro punti, alla loro ora, col loro amo.
+Cambiare di dieci metri il punto di caduta puo' cambiare completamente quello che abbocca.
+I tornei stanno nella scheda TORNEI: uno per specie, nell'acqua dove quel pesce vive.
+Compri il biglietto da qualsiasi posto e resta in tasca finche' non sei sul posto.
+Con una licenza in tasca o in corso non ti puoi iscrivere a un torneo.
+Col biglietto in tasca non puoi comprare la licenza: una cosa alla volta.
+Il torneo ha la sua ora d'inizio e il suo meteo: quando parte, il cielo cambia.
+Contano solo i pesci della specie del torneo messi in nassa: gli altri non fanno punteggio.
+Bronzo, argento e oro sono soglie di chili da mettere insieme, ognuna col suo premio.
+Un trofeo e un esemplare unico danno un premio extra sopra la medaglia.
+Se ti ritiri, la giornata si chiude subito: niente premio e niente record.
+Il tuo risultato migliore resta come record del torneo e lo rivedi nella sua scheda.
+Ogni pesce portato a riva finisce nel diario, anche se poi lo ributti.
+Il diario tiene per ogni zona i pesci presi li' e quante volte.
+Per ogni specie il diario segna il record di peso, con l'esca e l'amo che avevi.
+Le tre caselle comune, trofeo e unico si segnano solo per il posto dove le hai prese.
+La barra dell'esplorazione dice quante specie di quel posto hai gia' scoperto.
+La prima cattura di una specie vale otto volte i punti normali: cambiare pesce conviene.
+Dalla seconda alla quinta cattura i punti sono tripli, poi calano piano piano.
+Un trofeo vale il doppio dei punti, un esemplare unico il triplo.
+Ci vogliono circa tre uscite per salire di livello, dall'inizio alla fine.
+Al livello cento tutte le trentacinque acque sono aperte: dopo si sbloccano solo gli ultimi terminali.
+Pesce nero dell'Alaska: vive a Torrente di Tongva alto. Mangia a ogni ora, acqua fra 1 e 10 gradi. Esche: Mosche, Grilli, Effimere. Amo #6. Specie rara.
+Alalunga: vive a Vespucci Beach e molo di Del Perro, Isolotto di San Chianski e un'altra zona. Mangia di giorno, acqua fra 12 e 22 gradi. Esche: Sugarello giapponese, Cefaletti, Sardine squamate. Amo #4/0 - #7/0. Specie rara.
+Lepisosteo alligatore: vive a Palude di Zancudo ovest. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Pesciolini argentati, Gambero d'acqua dolce, Trancio di pesce grande. Amo #2/0 - #11/0. Specie rara.
+Alosa americana: vive a Palomino Highlands. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Mosche, Bigattini piccoli, Chironomi. Amo #8 - #4. Specie rarissima.
+Alosa americana: vive a Mount Chiliad e Cassidy Creek basso. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Uova naturali, Sacchetti di uova, Gamberetti. Amo #2 - #1/0.
+Rodeo dell'Amur: vive a Cassidy Creek alto. Mangia di giorno, acqua fra 12 e 24 gradi. Esche: Orzo perlato, Pallina di pasta, Palline di semolino. Amo #16. Specie rara.
+Salmerino artico: vive a Faro di El Gordo e Molo di Paleto Cove. Mangia a ogni ora, acqua fra 1 e 10 gradi. Esche: Sacchetti di uova, Gamberetti, Gambero del Golfo. Amo #3/0 - #6/0. Specie rarissima.
+Temolo artico: vive a Cassidy Creek alto. Mangia di giorno, acqua fra 1 e 10 gradi. Esche: Cavallette, Grilli, Effimere. Amo #1/0 - #3/0. Specie rarissima.
+Aspio: vive a Riva est di Alamo e Torrente di Tongva basso. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Cavallette, Grilli, Libellula. Amo #2/0 - #4/0. Specie rara.
+Merluzzo nordico: vive a Molo di Paleto Cove e Paleto Bay est. Mangia a ogni ora, acqua fra 3 e 12 gradi. Esche: Granchio, Gambero del Golfo, Mazzancolla tigre gigante. Amo #4/0 - #6/0. Specie rarissima.
+Ippoglosso atlantico: vive a Faro di El Gordo e Molo di Paleto Cove. Mangia all'alba e al tramonto, acqua fra 3 e 12 gradi. Esche: Granchio, Gambero del Golfo, Filetti di pesce grandi. Amo #7/0 - #15/0. Specie rarissima.
+Aringa atlantica: vive a Faro di El Gordo e Paleto Bay ovest. Mangia di notte, acqua fra 8 e 16 gradi. Esche: Uova naturali, Sacchetti di uova, Vermi di mare. Amo #1 - #6. Specie rarissima.
+Sugarello: vive a Faro di El Gordo. Mangia all'alba e al tramonto, acqua fra 8 e 16 gradi. Esche: Sacchetti di uova, Vermi di mare, Polpa di vongola. Amo #6 - #1/0. Specie rarissima.
+Sgombro: vive a Molo di Paleto Cove. Mangia di giorno, acqua fra 8 e 16 gradi. Esche: Sacchetti di uova, Gamberetti, Vermi di mare. Amo #6 - #1/0. Specie rarissima.
+Salmone atlantico: vive a Riva nord di Alamo e Land Act nord. Mangia di giorno, acqua fra 4 e 16 gradi. Esche: Pesciolino grande, Sacchetti di uova, Gamberetti. Amo #2/0 - #5/0.
+Costardella: vive a Faro di El Gordo e Molo di Paleto Cove. Mangia di notte, acqua fra 8 e 16 gradi. Esche: Uova naturali, Sacchetti di uova, Vermi di mare. Amo #6. Specie rarissima.
+Pesce lupo: vive a Paleto Bay ovest e Paleto Bay est. Mangia a ogni ora, acqua fra 3 e 12 gradi. Esche: Gamberetti, Polpa di cozza, Granchio. Amo #4/0 - #7/0. Specie rarissima.
+Cheppia d'Azov: vive a Riva est di Alamo. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Cavallette, Libellula, Sanguinerola. Amo #6 - #4. Specie rara.
+Omul del Bajkal: vive a Cassidy Creek alto. Mangia all'alba e al tramonto, acqua fra 1 e 10 gradi. Esche: Vermi rossi, Chironomi, Gammaridi. Amo #2 - #2/0. Specie rarissima.
+Storione beluga: vive a Riva est di Alamo. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Pesciolini argentati, Gambero d'acqua dolce, Pesciolino grande. Amo #5/0. Specie rara.
+Tonno obeso: vive a Vespucci Beach e molo di Del Perro, Isolotto di San Chianski e un'altra zona. Mangia all'alba e al tramonto, acqua fra 18 e 28 gradi. Esche: Sugarello giapponese, Cefaletti, Sardine squamate. Amo #5/0 - #8/0. Specie rara.
+Calamaro di scogliera: vive a Spiaggia e molo di Chumash e Spiaggia di Pacific Bluffs. Mangia di notte, acqua fra 18 e 28 gradi. Esche: Gamberetti, Gambero del Golfo, Sugarello giapponese. Amo #2/0 - #3/0. Specie rarissima.
+Carpa testa grossa: vive a Sandy Shores e Riva nord-est di Alamo. Mangia di giorno, acqua fra 15 e 28 gradi. Esche: Pane, Mais, Piselli. Amo #2/0 - #6/0. Specie rarissima.
+Bufalo boccalarga: vive a Palomino Highlands. Mangia all'alba e al tramonto, acqua fra 12 e 24 gradi. Esche: Palline di semolino, Marshmallow, Bigattini. Amo #2 - #2/0. Specie rarissima.
+Pesce gatto: vive a Fiume Zancudo basso. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Cibo per animali, Marshmallow, Sanguisughe. Amo #4 - #1/0. Specie rara.
+Crappie nero: vive a Riva ovest di Alamo, Palude di Zancudo ovest e altre 3 zone. Mangia all'alba e al tramonto, acqua fra 12 e 24 gradi. Esche: Marshmallow, Bigattini, Chironomi. Amo #8 - #1/0.
+Tamburo nero: vive a Palomino Highlands. Mangia a ogni ora, acqua fra 15 e 28 gradi. Esche: Pesciolino grande, Trancio di pesce grande, Granchio. Amo #3/0 - #7/0. Specie rarissima.
+Rutilo del Mar Nero: vive a Riva est di Alamo. Mangia di giorno, acqua fra 12 e 24 gradi. Esche: Cavallette, Bigattini piccoli, Bigattini. Amo #3/0 - #4/0. Specie rarissima.
+Shiner codanera: vive a Slab, Sponda sud di Alamo e altre 2 zone. Mangia a ogni ora, acqua fra 8 e 20 gradi. Esche: Pallina di pasta, Palline di semolino. Amo #8.
+Abramide blu: vive a Riva est di Alamo. Mangia di notte, acqua fra 12 e 24 gradi. Esche: Palline di semolino, Vermi rossi, Bigattini. Amo #14 - #12. Specie rarissima.
+Pesce gatto blu: vive a Riva nord di Alamo e Palude di Zancudo ovest. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Sanguisughe, Pesciolini argentati, Gambero d'acqua dolce. Amo #3/0 - #8/0. Specie rara.
+Persico sole blu: vive a Slab, Foce dello Zancudo e altre 8 zone. Mangia di giorno, acqua fra 15 e 28 gradi. Esche: Pallina di pasta, Vermi rossi, Grilli. Amo #8 - #2/0.
+Minnow muso tondo: vive a Riva ovest di Alamo, Mount Chiliad e altre 3 zone. Mangia a ogni ora, acqua fra 8 e 20 gradi. Esche: Vermi rossi, Chironomi. Amo #10.
+Pesce signora: vive a Palomino Highlands. Mangia di giorno, acqua fra 18 e 28 gradi. Esche: Libellula, Gamberetti, Gambero del Golfo. Amo #1/0 - #5/0. Specie rarissima.
+Amia: vive a Fiume Zancudo basso, Palude di Zancudo ovest e altre 2 zone. Mangia di notte, acqua fra 12 e 24 gradi. Esche: Pesciolini argentati, Trancio di pesce piccolo, Pesciolino grande. Amo #1/0 - #6/0.
+Rombo liscio: vive a Paleto Bay ovest e Paleto Bay est. Mangia all'alba e al tramonto, acqua fra 3 e 12 gradi. Esche: Gamberetti, Polpa di cozza, Gambero del Golfo. Amo #2/0 - #4/0. Specie rarissima.
+Salmerino di fonte: vive a Riva nord di Alamo e Land Act nord. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Mosche, Effimere, Uova di salmone artificiali. Amo #1 - #3/0. Specie rara.
+Pesce gatto bruno: vive a Mount Chiliad, Palude di Zancudo est e un'altra zona. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Marshmallow, Sanguisughe, Trancio di pesce piccolo. Amo #4 - #1.
+Trota fario: vive a Mount Chiliad, Riva nord di Alamo e altre 2 zone. Mangia di notte, acqua fra 4 e 16 gradi. Esche: Libellula, Sacchetti di uova, Pesciolini piccoli. Amo #1 - #3/0. Specie rara.
+Trota toro: vive a Torrente di Tongva alto. Mangia all'alba e al tramonto, acqua fra 1 e 10 gradi. Esche: Libellula, Pesciolini argentati, Sacchetti di uova. Amo #1/0 - #4/0. Specie rarissima.
+Bottatrice: vive a Cassidy Creek alto e Land Act nord. Mangia di notte, acqua fra 1 e 10 gradi. Esche: Pesciolini argentati, Trancio di pesce piccolo, Trance di gambero. Amo #2/0 - #5/0. Specie rara.
+Pavone farfalla: vive a Palude di Zancudo est e Palomino Highlands. Mangia di giorno, acqua fra 15 e 28 gradi. Esche: Sanguisughe, Pesciolini argentati, Pesciolini piccoli. Amo #3/0 - #7/0.
+Rutilo della California: vive a Foce dello Zancudo. Mangia di giorno, acqua fra 12 e 24 gradi. Esche: Palline di semolino, Vermi rossi, Chironomi. Amo #10. Specie rara.
+Luccio a catena: vive a Riva ovest di Alamo, Fiume Zancudo basso e altre 2 zone. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Pesciolini argentati, Pesciolino grande, Pesciolini piccoli. Amo #2/0 - #5/0.
+Pesce gatto punteggiato: vive a Slab, Sponda sud di Alamo e altre 4 zone. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Cibo per animali, Sanguisughe, Trancio di pesce piccolo. Amo #2 - #7/0.
+Dormiglione cinese: vive a Riva est di Alamo. Mangia a ogni ora, acqua fra 8 e 20 gradi. Esche: Vermi rossi, Chironomi, Sanguisughe. Amo #6 - #4. Specie rara.
+Salmone reale: vive a Foce dello Zancudo e Torrente di Tongva alto. Mangia di giorno, acqua fra 4 e 16 gradi. Esche: Pesciolini argentati, Sacchetti di uova, Gamberetti. Amo #2/0 - #7/0. Specie rara.
+Cavedano: vive a Riva est di Alamo, Grapeseed e un'altra zona. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Cavallette, Mosche, Grilli. Amo #4 - #2/0.
+Salmone keta: vive a Torrente di Tongva alto. Mangia di giorno, acqua fra 4 e 16 gradi. Esche: Pesciolini argentati, Sacchetti di uova, Gamberetti. Amo #2/0 - #6/0. Specie rarissima.
+Muskie chiaro: vive a Mount Chiliad. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Pesciolini argentati, Pesciolino grande. Amo #3/0 - #9/0. Specie rarissima.
+Merluzzo carbonaro: vive a Molo di Paleto Cove e Paleto Bay est. Mangia all'alba e al tramonto, acqua fra 3 e 12 gradi. Esche: Granchio, Gambero del Golfo, Mazzancolla tigre gigante. Amo #3/0 - #6/0. Specie rarissima.
+Salmone argentato: vive a Torrente di Tongva alto. Mangia di giorno, acqua fra 4 e 16 gradi. Esche: Pesciolini argentati, Sacchetti di uova, Gamberetti. Amo #2/0 - #5/0. Specie rarissima.
+Trota dorata del Colorado: vive a Diga di Land Act. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Cavallette, Mosche, Grilli. Amo #6 - #1/0. Specie rarissima.
+Barbo: vive a Fiume Zancudo alto e Torrente di Tongva basso. Mangia all'alba e al tramonto, acqua fra 12 e 24 gradi. Esche: Formaggio, Palline di semolino, Mais. Amo #6 - #1/0. Specie rara.
+Alborella: vive a Riva est di Alamo. Mangia di giorno, acqua fra 12 e 24 gradi. Esche: Orzo perlato, Pallina di pasta, Palline di semolino. Amo #14. Specie rara.
+Abramide: vive a Sandy Shores, Riva est di Alamo e altre 4 zone. Mangia di notte, acqua fra 12 e 24 gradi. Esche: Palline di semolino, Piselli, Vermi rossi. Amo #6 - #2.
+Carpa: vive a Foce dello Zancudo, Sandy Shores e altre 7 zone. Mangia all'alba e al tramonto, acqua fra 15 e 28 gradi. Esche: Pane e miele, Palline di semolino, Marshmallow. Amo #3/0 - #6/0.
+Leucisco: vive a Cassidy Creek alto. Mangia di giorno, acqua fra 8 e 20 gradi. Esche: Palline di semolino, Fiocchi d'avena, Cavallette. Amo #2 - #1/0. Specie rarissima.
+Molva: vive a Faro di El Gordo e Paleto Bay ovest. Mangia di notte, acqua fra 3 e 12 gradi. Esche: Granchio, Gambero del Golfo, Mazzancolla tigre gigante. Amo #4/0 - #7/0. Specie rarissima.
+Sanguinerola: vive a Cassidy Creek alto. Mangia a ogni ora, acqua fra 8 e 20 gradi. Esche: Vermi rossi, Bigattini piccoli, Bigattini. Amo #16. Specie rara.
+Naso: vive a Riva est di Alamo e Fiume Zancudo alto. Mangia a ogni ora, acqua fra 8 e 20 gradi. Esche: Orzo perlato, Palline di semolino, Vermi rossi. Amo #8 - #6. Specie rara.
+Rutilo: vive a Sandy Shores, Riva est di Alamo e altre 6 zone. Mangia di giorno, acqua fra 12 e 24 gradi. Esche: Orzo perlato, Pallina di pasta, Palline di semolino. Amo #12 - #8.
+Scardola: vive a Riva est di Alamo e Fiume Zancudo alto. Mangia di giorno, acqua fra 12 e 24 gradi. Esche: Orzo perlato, Pallina di pasta, Palline di semolino. Amo #12 - #10. Specie rara.
+Shiner comune: vive a Riva ovest di Alamo, Fiume Zancudo basso e un'altra zona. Mangia a ogni ora, acqua fra 8 e 20 gradi. Esche: Pallina di pasta, Palline di semolino. Amo #8.
+Snook comune: vive a Palude di Zancudo est e Palomino Highlands. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Pesciolini argentati, Pesciolino grande, Gamberetti. Amo #2/0 - #6/0. Specie rara.
+Trota fario di torrente: vive a Torrente di Tongva basso. Mangia di notte, acqua fra 4 e 16 gradi. Esche: Cavallette, Mosche, Grilli. Amo #6 - #1/0. Specie rarissima.
+Carassio: vive a Riva est di Alamo, Grapeseed e altre 2 zone. Mangia all'alba e al tramonto, acqua fra 15 e 28 gradi. Esche: Pallina di pasta, Pane e miele, Palline di semolino. Amo #8 - #2.
+Brosme: vive a Faro di El Gordo e Molo di Paleto Cove. Mangia a ogni ora, acqua fra 3 e 12 gradi. Esche: Gamberetti, Polpa di cozza, Granchio. Amo #3/0 - #6/0. Specie rarissima.
+Trota golatagliata: vive a Ponte Calafia e Diga di Land Act. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Cavallette, Mosche, Effimere. Amo #1 - #2/0. Specie rara.
+Tonno dente di cane: vive a Spiaggia e molo di Chumash e Spiaggia di Pacific Bluffs. Mangia di giorno, acqua fra 24 e 30 gradi. Esche: Sugarello giapponese, Cefaletti, Sardine squamate. Amo #5/0 - #8/0. Specie rara.
+Salmerino Dolly Varden: vive a Torrente di Tongva alto. Mangia all'alba e al tramonto, acqua fra 1 e 10 gradi. Esche: Libellula, Pesciolini argentati, Sacchetti di uova. Amo #1/0 - #4/0. Specie rarissima.
+Acerina: vive a Riva est di Alamo e Riva nord-est di Alamo. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Vermi rossi, Bigattini, Chironomi. Amo #1.
+Rana pescatrice: vive a Faro di El Gordo e Paleto Bay ovest. Mangia a ogni ora, acqua fra 3 e 12 gradi. Esche: Granchio, Filetti di pesce grandi, Sardine squamate. Amo #5/0 - #9/0. Specie rarissima.
+Rodeo amaro: vive a Torrente di Tongva basso. Mangia di giorno, acqua fra 12 e 24 gradi. Esche: Pallina di pasta, Palline di semolino, Vermi rossi. Amo #14. Specie rara.
+Trota fario europea: vive a Torrente di Tongva basso. Mangia di notte, acqua fra 4 e 16 gradi. Esche: Effimere, Libellula, Uova naturali. Amo #1 - #3/0. Specie rarissima.
+Anguilla europea: vive a Sandy Shores, Riva nord-est di Alamo e altre 2 zone. Mangia di notte, acqua fra 12 e 24 gradi. Esche: Formaggio, Pesciolini argentati, Trancio di pesce piccolo. Amo #4 - #3/0.
+Passera: vive a Foce del Cassidy. Mangia all'alba e al tramonto, acqua fra 12 e 24 gradi. Esche: Vermi rossi, Trancio di pesce piccolo, Gambero d'acqua dolce. Amo #6 - #2. Specie rarissima.
+Temolo: vive a Torrente di Tongva basso. Mangia di giorno, acqua fra 4 e 16 gradi. Esche: Cavallette, Grilli, Effimere. Amo #2 - #1/0. Specie rara.
+Nasello: vive a Paleto Bay ovest e Paleto Bay est. Mangia di notte, acqua fra 3 e 12 gradi. Esche: Gamberetti, Gambero del Golfo, Mazzancolla tigre gigante. Amo #3/0 - #6/0. Specie rarissima.
+Persico reale: vive a Sandy Shores, Riva est di Alamo e altre 7 zone. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Vermi rossi, Chironomi, Pesciolini piccoli. Amo #1 - #6/0.
+Storione comune: vive a Paleto Bay est. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Polpa di cozza, Granchio, Gambero del Golfo. Amo #7/0 - #15/0. Specie rarissima.
+Cobite di stagno: vive a Riva est di Alamo e Mirror Park. Mangia di notte, acqua fra 4 e 16 gradi. Esche: Vermi rossi, Bigattini, Chironomi. Amo #8 - #6.
+Pesce gatto testapiatta: vive a Palude di Zancudo ovest e Cassidy Creek basso. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Sanguisughe, Pesciolini argentati, Gambero d'acqua dolce. Amo #3/0 - #8/0. Specie rara.
+Luccio alligatore della Florida: vive a Palude di Zancudo est. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Pesciolini argentati, Pesciolino grande, Trancio di pesce grande. Amo #1/0 - #4/0. Specie rarissima.
+Tamburo d'acqua dolce: vive a Mount Chiliad, Riva nord di Alamo e altre 2 zone. Mangia di notte, acqua fra 12 e 24 gradi. Esche: Piselli, Lombricone, Pesciolini piccoli. Amo #1/0 - #5/0.
+Pesce gatto vela: vive a Palude di Zancudo est e Palomino Highlands. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Trancio di pesce piccolo, Gambero d'acqua dolce, Gamberetti. Amo #1 - #2/0. Specie rara.
+Carpa fantasma: vive a Grapeseed. Mangia all'alba e al tramonto, acqua fra 15 e 28 gradi. Esche: Pane e miele, Palline di semolino, Marshmallow. Amo #2 - #6/0. Specie rarissima.
+Cernia gigante: vive a Vespucci Beach e molo di Del Perro e Spiaggia di Pacific Bluffs. Mangia all'alba e al tramonto, acqua fra 24 e 30 gradi. Esche: Granchio, Filetti di pesce grandi, Aragosta giapponese. Amo #8/0 - #16/0. Specie rara.
+Carangide gigante: vive a Vespucci Beach e molo di Del Perro e Spiaggia e molo di Chumash. Mangia di giorno, acqua fra 24 e 30 gradi. Esche: Granchio, Gambero del Golfo, Filetti di pesce medi. Amo #5/0 - #8/0. Specie rara.
+Shiner dorato: vive a Riva ovest di Alamo, Slab e altre 10 zone. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Pallina di pasta, Palline di semolino. Amo #8.
+Tinca dorata: vive a Grapeseed. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Vermi rossi, Chironomi, Sanguisughe. Amo #8 - #1. Specie rarissima.
+Carpa erbivora: vive a Sandy Shores, Riva est di Alamo e un'altra zona. Mangia di giorno, acqua fra 15 e 28 gradi. Esche: Pane e miele, Palline di semolino, Marshmallow. Amo #1/0 - #6/0.
+Luccio d'erba: vive a Riva ovest di Alamo, Slab e altre 3 zone. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Pesciolino grande, Pesciolini piccoli. Amo #1 - #2/0.
+Ricciola: vive a Vespucci Beach e molo di Del Perro e Spiaggia e molo di Chumash. Mangia di giorno, acqua fra 18 e 28 gradi. Esche: Granchio, Gambero del Golfo, Filetti di pesce medi. Amo #5/0 - #8/0. Specie rara.
+Jobfish verde: vive a Vespucci Beach e molo di Del Perro e Spiaggia di Pacific Bluffs. Mangia all'alba e al tramonto, acqua fra 24 e 30 gradi. Esche: Gamberetti, Granchio, Gambero del Golfo. Amo #4/0 - #7/0. Specie rara.
+Persico sole verde: vive a Slab, Sponda sud di Alamo e altre 4 zone. Mangia di giorno, acqua fra 15 e 28 gradi. Esche: Palline di semolino, Marshmallow, Chironomi. Amo #10.
+Ippoglosso nero: vive a Paleto Bay ovest. Mangia a ogni ora, acqua fra 1 e 10 gradi. Esche: Granchio, Gambero del Golfo, Filetti di pesce grandi. Amo #7/0 - #11/0. Specie rarissima.
+Squalo della Groenlandia: vive a Faro di El Gordo e Paleto Bay ovest. Mangia di notte, acqua fra 1 e 10 gradi. Esche: Filetti di pesce grandi, Pesce eviscerato, Testa di pesce. Amo #10/0 - #16/0. Specie rarissima.
+Gobione: vive a Riva est di Alamo. Mangia di giorno, acqua fra 8 e 20 gradi. Esche: Vermi rossi, Chironomi, Lombricone. Amo #16. Specie rara.
+Eglefino: vive a Faro di El Gordo e Paleto Bay ovest. Mangia di giorno, acqua fra 3 e 12 gradi. Esche: Sacchetti di uova, Gamberetti, Polpa di cozza. Amo #3/0 - #5/0. Specie rarissima.
+Coregone: vive a Cassidy Creek alto. Mangia all'alba e al tramonto, acqua fra 1 e 10 gradi. Esche: Vermi rossi, Chironomi, Uova naturali. Amo #1 - #2/0. Specie rarissima.
+Carpa ibrida F1: vive a Grapeseed. Mangia all'alba e al tramonto, acqua fra 15 e 28 gradi. Esche: Pallina di pasta, Pane e miele, Palline di semolino. Amo #8 - #4. Specie rarissima.
+Ido: vive a Riva est di Alamo, Cassidy Creek alto e un'altra zona. Mangia di giorno, acqua fra 8 e 20 gradi. Esche: Cavallette, Mosche, Grilli. Amo #4 - #4/0.
+Sgombro reale indo-pacifico: vive a Isolotto di San Chianski. Mangia di giorno, acqua fra 24 e 30 gradi. Esche: Sugarello giapponese, Cefaletti, Sardine squamate. Amo #2/0 - #5/0. Specie rarissima.
+Ricciola giapponese: vive a Vespucci Beach e molo di Del Perro e Spiaggia di Pacific Bluffs. Mangia di giorno, acqua fra 18 e 28 gradi. Esche: Gamberetti, Sugarello giapponese, Cefaletti. Amo #3/0 - #7/0. Specie rarissima.
+Acciuga giapponese: vive a Vespucci Beach e molo di Del Perro e Spiaggia e molo di Chumash. Mangia di notte, acqua fra 12 e 22 gradi. Esche: Uova naturali, Sacchetti di uova, Vermi di mare. Amo #6. Specie rara.
+Sugarello giapponese: vive a Spiaggia e molo di Chumash. Mangia all'alba e al tramonto, acqua fra 12 e 22 gradi. Esche: Gamberetti, Vermi di mare, Cefaletti. Amo #6 - #1. Specie rara.
+Cavedano di lago: vive a Land Act nord. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Palline di semolino, Vermi rossi, Chironomi. Amo #8. Specie rara.
+Storione di lago: vive a Mount Chiliad. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Trancio di pesce piccolo, Gambero d'acqua dolce, Gamberetti. Amo #3/0 - #7/0. Specie rara.
+Trota di lago: vive a Land Act nord. Mangia all'alba e al tramonto, acqua fra 1 e 10 gradi. Esche: Pesciolini argentati, Sacchetti di uova. Amo #1/0 - #5/0. Specie rarissima.
+Coregone di lago: vive a Land Act nord. Mangia all'alba e al tramonto, acqua fra 1 e 10 gradi. Esche: Cavallette, Mosche, Effimere. Amo #1 - #2/0. Specie rarissima.
+Persico trota: vive a Foce dello Zancudo, Fiume Zancudo basso e altre 4 zone. Mangia all'alba e al tramonto, acqua fra 15 e 28 gradi. Esche: Pesciolini argentati, Pesciolini piccoli. Amo #4 - #4/0.
+Carpa cuoio: vive a Grapeseed e Riva nord-est di Alamo. Mangia all'alba e al tramonto, acqua fra 15 e 28 gradi. Esche: Pane e miele, Palline di semolino, Marshmallow. Amo #2 - #5/0. Specie rara.
+Lenok: vive a Cassidy Creek alto. Mangia di giorno, acqua fra 4 e 16 gradi. Esche: Cavallette, Libellula, Larva di bostrico. Amo #2/0 - #4/0. Specie rarissima.
+Lepisosteo: vive a Cassidy Creek basso e Palomino Highlands. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Pesciolini argentati, Pesciolino grande, Trancio di pesce grande. Amo #1/0 - #6/0. Specie rara.
+Succhiatore musolungo: vive a Torrente di Tongva alto. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Palline di semolino, Marshmallow, Chironomi. Amo #2 - #1/0. Specie rara.
+Lampuga: vive a Spiaggia e molo di Chumash e Spiaggia di Pacific Bluffs. Mangia di giorno, acqua fra 18 e 28 gradi. Esche: Gambero del Golfo, Sugarello giapponese, Cefaletti. Amo #4/0 - #7/0. Specie rara.
+Trota marmorata: vive a Torrente di Tongva basso. Mangia di notte, acqua fra 4 e 16 gradi. Esche: Effimere, Libellula, Uova naturali. Amo #1/0 - #3/0. Specie rarissima.
+Ombrina bocca d'oro: vive a Molo di Paleto Cove e Paleto Bay est. Mangia all'alba e al tramonto, acqua fra 3 e 12 gradi. Esche: Granchio, Gambero del Golfo, Mazzancolla tigre gigante. Amo #5/0 - #9/0. Specie rarissima.
+Carpa a specchio: vive a Sandy Shores, Grapeseed e altre 2 zone. Mangia all'alba e al tramonto, acqua fra 15 e 28 gradi. Esche: Pane e miele, Palline di semolino, Marshmallow. Amo #2 - #5/0.
+Ghiozzo scimmia: vive a Riva est di Alamo. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Vermi rossi, Bigattini, Chironomi. Amo #14. Specie rara.
+Muskellunge: vive a Mount Chiliad e Riva nord di Alamo. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Pesciolini argentati, Pesciolino grande. Amo #3/0 - #9/0. Specie rarissima.
+Maccarello reale: vive a Vespucci Beach e molo di Del Perro e Spiaggia e molo di Chumash. Mangia di giorno, acqua fra 24 e 30 gradi. Esche: Gambero del Golfo, Sugarello giapponese, Cefaletti. Amo #4/0 - #7/0. Specie rara.
+Luccio: vive a Riva ovest di Alamo, Sandy Shores e altre 12 zone. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Pesciolini argentati, Pesciolini piccoli. Amo #1/0 - #8/0.
+Salmone atlantico norvegese: vive a Molo di Paleto Cove e Paleto Bay est. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Granchio, Gambero del Golfo, Mazzancolla tigre gigante. Amo #4/0 - #8/0. Specie rarissima.
+Scorfano norvegese: vive a Faro di El Gordo e Molo di Paleto Cove. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Gamberetti, Mazzancolla tigre gigante, Sardine squamate. Amo #3/0 - #6/0. Specie rarissima.
+Trota fascia rossa dell'Oregon: vive a Ponte Calafia. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Cavallette, Mosche, Grilli. Amo #4 - #1/0. Specie rarissima.
+Oscar: vive a Palude di Zancudo est e Palomino Highlands. Mangia a ogni ora, acqua fra 24 e 32 gradi. Esche: Palline di semolino, Marshmallow, Vermi rossi. Amo #6 - #1.
+Tonno rosso del Pacifico: vive a Vespucci Beach e molo di Del Perro e Spiaggia e molo di Chumash. Mangia di giorno, acqua fra 12 e 22 gradi. Esche: Sugarello giapponese, Cefaletti, Sardine squamate. Amo #5/0 - #9/0. Specie rara.
+Permit: vive a Palomino Highlands. Mangia di giorno, acqua fra 18 e 28 gradi. Esche: Gamberetti, Polpa di cozza, Granchio. Amo #2/0 - #7/0. Specie rarissima.
+Salmone rosa: vive a Torrente di Tongva alto. Mangia di giorno, acqua fra 4 e 16 gradi. Esche: Libellula, Pesciolini argentati, Sacchetti di uova. Amo #1/0 - #3/0. Specie rarissima.
+Smeriglio: vive a Paleto Bay ovest e Paleto Bay est. Mangia di giorno, acqua fra 3 e 12 gradi. Esche: Filetti di pesce grandi, Pesce eviscerato, Testa di pesce. Amo #9/0 - #14/0. Specie rarissima.
+Carassio prussiano: vive a Sandy Shores, Riva est di Alamo e altre 3 zone. Mangia all'alba e al tramonto, acqua fra 15 e 28 gradi. Esche: Pallina di pasta, Pane e miele, Palline di semolino. Amo #8 - #4.
+Persico sole: vive a Riva ovest di Alamo, Mount Chiliad e altre 7 zone. Mangia di giorno, acqua fra 15 e 28 gradi. Esche: Pallina di pasta, Palline di semolino, Vermi rossi. Amo #10 - #6.
+Trota iridea: vive a Diga di Land Act e Land Act ovest. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Cavallette, Mosche, Effimere. Amo #2 - #3/0. Specie rara.
+Ombrina ocellata: vive a Palude di Zancudo est e Palomino Highlands. Mangia a ogni ora, acqua fra 15 e 28 gradi. Esche: Pesciolini argentati, Gambero d'acqua dolce, Pesciolino grande. Amo #2/0 - #8/0. Specie rara.
+Persico sole pettorosso: vive a Land Act ovest. Mangia di giorno, acqua fra 15 e 28 gradi. Esche: Vermi rossi, Cavallette, Grilli. Amo #10. Specie rara.
+Persico sole orecchierosse: vive a Slab, Foce dello Zancudo e altre 6 zone. Mangia di giorno, acqua fra 15 e 28 gradi. Esche: Grilli, Bigattini, Chironomi. Amo #8 - #1/0.
+Luccio pinnarossa: vive a Riva ovest di Alamo e Cassidy Creek basso. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Pesciolini piccoli. Amo #1 - #2/0.
+Persico delle rocce: vive a Riva nord di Alamo, Ponte Calafia e un'altra zona. Mangia di giorno, acqua fra 8 e 20 gradi. Esche: Sanguisughe, Lombricone. Amo #6.
+Ghiozzo tondo: vive a Sandy Shores, Riva est di Alamo e altre 2 zone. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Vermi rossi, Bigattini, Chironomi. Amo #14 - #8.
+Dentice rubino: vive a Spiaggia di Pacific Bluffs. Mangia all'alba e al tramonto, acqua fra 24 e 30 gradi. Esche: Granchio, Filetti di pesce medi, Filetti di pesce grandi. Amo #6/0 - #10/0. Specie rara.
+Pesce vela: vive a Isolotto di San Chianski. Mangia di giorno, acqua fra 18 e 28 gradi. Esche: Sugarello giapponese, Calamaro dell'Oceano Indiano, Cefaletti. Amo #5/0 - #8/0. Specie rarissima.
+Sauger: vive a Lago di Vinewood. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Sanguisughe, Pesciolini piccoli. Amo #1/0 - #5/0. Specie rarissima.
+Trota di mare: vive a Paleto Bay ovest e Paleto Bay est. Mangia di notte, acqua fra 4 e 16 gradi. Esche: Granchio, Gambero del Golfo, Mazzancolla tigre gigante. Amo #3/0 - #6/0. Specie rarissima.
+Bass di secca: vive a Palomino Highlands. Mangia all'alba e al tramonto, acqua fra 12 e 24 gradi. Esche: Pesciolini argentati, Pesciolini piccoli. Amo #3/0 - #4/0. Specie rarissima.
+Taimen siberiano: vive a Cassidy Creek alto. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Pesciolini argentati, Pesciolino grande, Sanguinerola. Amo #4/0 - #7/0. Specie rarissima.
+Pesce castagna falce: vive a Isolotto di San Chianski. Mangia di notte, acqua fra 24 e 30 gradi. Esche: Filetti di pesce medi, Granchio nuotatore indopacifico, Mazzancolla tigre gigante. Amo #4/0 - #7/0. Specie rarissima.
+Blicca: vive a Riva est di Alamo e Mirror Park. Mangia di notte, acqua fra 12 e 24 gradi. Esche: Palline di semolino, Vermi rossi, Bigattini. Amo #10 - #8. Specie rara.
+Carpa argentata: vive a Sandy Shores e Riva est di Alamo. Mangia di giorno, acqua fra 15 e 28 gradi. Esche: Pane, Mais, Piselli. Amo #2/0 - #6/0. Specie rara.
+Tonnetto striato: vive a Spiaggia e molo di Chumash e Spiaggia di Pacific Bluffs. Mangia di giorno, acqua fra 18 e 28 gradi. Esche: Sugarello giapponese, Cefaletti, Sardine squamate. Amo #3/0 - #6/0. Specie rara.
+Boccapiccola: vive a Foce dello Zancudo, Mount Chiliad e altre 4 zone. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Pesciolini argentati, Pesciolini piccoli. Amo #4 - #4/0.
+Bufalo boccapiccola: vive a Slab, Sponda sud di Alamo e un'altra zona. Mangia all'alba e al tramonto, acqua fra 12 e 24 gradi. Esche: Palline di semolino, Mais, Chironomi. Amo #6 - #1/0. Specie rara.
+Salmone rosso: vive a Torrente di Tongva alto. Mangia di giorno, acqua fra 4 e 16 gradi. Esche: Libellula, Pesciolini argentati, Sacchetti di uova. Amo #2/0 - #5/0. Specie rarissima.
+Rombo del sud: vive a Palomino Highlands. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Trancio di pesce piccolo, Gamberetti, Polpa di cozza. Amo #1/0 - #5/0. Specie rarissima.
+Pavone maculato: vive a Palomino Highlands. Mangia di giorno, acqua fra 24 e 32 gradi. Esche: Pesciolini argentati, Pesciolino grande, Pesciolini piccoli. Amo #5/0 - #10/0. Specie rara.
+Spinarolo: vive a Molo di Paleto Cove e Paleto Bay est. Mangia di notte, acqua fra 3 e 12 gradi. Esche: Granchio, Gambero del Golfo, Filetti di pesce medi. Amo #2/0 - #4/0. Specie rarissima.
+Splake: vive a Land Act nord. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Libellula, Uova di salmone artificiali, Uova naturali. Amo #1/0 - #3/0. Specie rarissima.
+Bass maculato: vive a Slab, Sponda sud di Alamo e un'altra zona. Mangia all'alba e al tramonto, acqua fra 12 e 24 gradi. Esche: Pesciolini argentati, Uova naturali, Pesciolini piccoli. Amo #1 - #4/0. Specie rara.
+Luccio alligatore maculato: vive a Fiume Zancudo basso. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Pesciolini argentati, Pesciolino grande, Trancio di pesce grande. Amo #1 - #2/0. Specie rarissima.
+Trota steelhead: vive a Foce dello Zancudo. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Cavallette, Sacchetti di uova, Pesciolini piccoli. Amo #1/0 - #4/0. Specie rarissima.
+Sterleto: vive a Riva est di Alamo. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Trancio di pesce piccolo, Gambero d'acqua dolce, Gamberetti. Amo #4 - #2/0. Specie rarissima.
+Spigola striata: vive a Foce dello Zancudo e Palomino Highlands. Mangia all'alba e al tramonto, acqua fra 12 e 24 gradi. Esche: Pesciolini argentati, Trancio di pesce grande, Granchio. Amo #3/0 - #8/0. Specie rara.
+Palamita striata: vive a Vespucci Beach e molo di Del Perro. Mangia di giorno, acqua fra 12 e 22 gradi. Esche: Gamberetti, Gambero del Golfo, Sugarello giapponese. Amo #2/0 - #6/0. Specie rara.
+Marlin striato: vive a Isolotto di San Chianski, Spiaggia e molo di Chumash e un'altra zona. Mangia di giorno, acqua fra 12 e 22 gradi. Esche: Sugarello giapponese, Cefaletti, Sardine squamate. Amo #7/0 - #10/0. Specie rara.
+Pesce spada: vive a Isolotto di San Chianski. Mangia di notte, acqua fra 12 e 22 gradi. Esche: Sugarello giapponese, Cefaletti, Sardine squamate. Amo #2/0 - #16/0. Specie rarissima.
+Tarpone: vive a Palude di Zancudo est e Palomino Highlands. Mangia di notte, acqua fra 18 e 28 gradi. Esche: Libellula, Pesciolini argentati, Pesciolino grande. Amo #4/0 - #9/0. Specie rara.
+Tinca: vive a Sandy Shores, Riva est di Alamo e altre 4 zone. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Vermi rossi, Chironomi, Sanguisughe. Amo #8 - #1.
+Cefalo bosega: vive a Foce del Cassidy. Mangia di giorno, acqua fra 12 e 24 gradi. Esche: Pane, Formaggio, Pallina di pasta. Amo #6 - #2. Specie rarissima.
+Muskie tigre: vive a Mount Chiliad. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Pesciolini argentati, Pesciolino grande. Amo #2/0 - #8/0. Specie rarissima.
+Trota tigre: vive a Riva nord di Alamo. Mangia all'alba e al tramonto, acqua fra 4 e 16 gradi. Esche: Libellula, Sacchetti di uova, Gamberetti. Amo #1 - #3/0. Specie rarissima.
+Walleye: vive a Riva ovest di Alamo e Riva nord di Alamo. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Sanguisughe, Pesciolini piccoli. Amo #2/0 - #6/0. Specie rara.
+Warmouth: vive a Palude di Zancudo ovest, Palude di Zancudo est e un'altra zona. Mangia di giorno, acqua fra 15 e 28 gradi. Esche: Vermi rossi, Cavallette, Grilli. Amo #10 - #2.
+Siluro: vive a Sandy Shores, Riva est di Alamo e altre 4 zone. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Larva di grillotalpa, Sanguisughe, Pesciolini argentati. Amo #5/0 - #9/0.
+Bass bianco: vive a Mount Chiliad e Diga di Land Act. Mangia all'alba e al tramonto, acqua fra 12 e 24 gradi. Esche: Lombricone, Pesciolini piccoli. Amo #2 - #2/0.
+Pesce gatto bianco: vive a Foce dello Zancudo. Mangia di notte, acqua fra 15 e 28 gradi. Esche: Formaggio, Sanguisughe, Trancio di pesce piccolo. Amo #2. Specie rara.
+Crappie bianco: vive a Slab, Foce dello Zancudo e altre 5 zone. Mangia all'alba e al tramonto, acqua fra 12 e 24 gradi. Esche: Marshmallow, Bigattini, Chironomi. Amo #8 - #1/0.
+Storione bianco: vive a Foce dello Zancudo. Mangia di notte, acqua fra 8 e 20 gradi. Esche: Gambero d'acqua dolce, Trancio di pesce grande. Amo #3/0 - #8/0. Specie rara.
+Succhiatore bianco: vive a Diga di Land Act e Land Act nord. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Palline di semolino, Marshmallow. Amo #2 - #1/0.
+Abramide occhiobianco: vive a Riva est di Alamo. Mangia di notte, acqua fra 12 e 24 gradi. Esche: Palline di semolino, Vermi rossi, Bigattini. Amo #14 - #10. Specie rarissima.
+Merlano: vive a Faro di El Gordo e Molo di Paleto Cove. Mangia all'alba e al tramonto, acqua fra 3 e 12 gradi. Esche: Sacchetti di uova, Gamberetti, Polpa di cozza. Amo #1/0 - #3/0. Specie rarissima.
+Persico giallo: vive a Mount Chiliad, Riva nord di Alamo e altre 2 zone. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Vermi rossi, Chironomi. Amo #8 - #3/0.
+Tonno albacora: vive a Spiaggia e molo di Chumash e Spiaggia di Pacific Bluffs. Mangia di giorno, acqua fra 18 e 28 gradi. Esche: Sugarello giapponese, Cefaletti, Sardine squamate. Amo #5/0 - #8/0. Specie rara.
+Lucioperca: vive a Sandy Shores, Riva est di Alamo e altre 3 zone. Mangia all'alba e al tramonto, acqua fra 8 e 20 gradi. Esche: Sanguisughe, Pesciolini argentati, Pesciolini piccoli. Amo #1/0 - #6/0.
+Pesce sciabola: vive a Riva est di Alamo. Mangia a ogni ora, acqua fra 8 e 20 gradi. Esche: Vermi rossi, Cavallette, Mosche. Amo #12 - #8. Specie rarissima.
+Cassidy Creek alto: ci vivono 13 specie e serve il livello 48. I pesci che pagano di piu': luccio, ido, temolo artico.
+Cassidy Creek basso: ci vivono 13 specie e serve il livello 10. I pesci che pagano di piu': boccapiccola, persico trota, Luccio pinnarossa.
+Diga di Land Act: ci vivono 8 specie e serve il livello 5. I pesci che pagano di piu': Trota dorata del Colorado, trota iridea, Trota golatagliata.
+Faro di El Gordo: ci vivono 12 specie e serve il livello 100. I pesci che pagano di piu': scorfano norvegese, rana pescatrice, eglefino.
+Fiume Zancudo alto: ci vivono 12 specie e serve il livello 24. I pesci che pagano di piu': lucioperca, luccio, barbo.
+Fiume Zancudo basso: ci vivono 15 specie e serve il livello 4. I pesci che pagano di piu': persico trota, Luccio a catena, Luccio d'erba.
+Foce del Cassidy: ci vivono 10 specie e serve il livello 12. I pesci che pagano di piu': lucioperca, luccio, ido.
+Foce dello Zancudo: ci vivono 12 specie e serve il livello 34. I pesci che pagano di piu': boccapiccola, persico trota, Rutilo della California.
+Grapeseed: ci vivono 15 specie e serve il livello 50. I pesci che pagano di piu': luccio, cavedano, tinca dorata.
+Isolotto di San Chianski: ci vivono 7 specie e serve il livello 94. I pesci che pagano di piu': pesce vela, marlin striato, pesce spada.
+Laghetti del golf: ci vivono 6 specie e serve il livello 1. I pesci che pagano di piu': Shiner codanera, Persico sole orecchierosse, Shiner dorato.
+Lago di Vinewood: ci vivono 10 specie e serve il livello 8. I pesci che pagano di piu': Sauger, luccio, Luccio a catena.
+Land Act nord: ci vivono 11 specie e serve il livello 22. I pesci che pagano di piu': luccio, Splake, salmerino di fonte.
+Land Act ovest: ci vivono 6 specie e serve il livello 14. I pesci che pagano di piu': trota iridea, Persico sole pettorosso, boccapiccola.
+Mirror Park: ci vivono 9 specie e serve il livello 3. I pesci che pagano di piu': luccio, tinca, cobite di stagno.
+Molo di Paleto Cove: ci vivono 12 specie e serve il livello 100. I pesci che pagano di piu': scorfano norvegese, brosme, merlano.
+Mount Chiliad: ci vivono 16 specie e serve il livello 30. I pesci che pagano di piu': luccio, boccapiccola, trota fario.
+Paleto Bay est: ci vivono 11 specie e serve il livello 100. I pesci che pagano di piu': pesce lupo, nasello, merluzzo nordico.
+Paleto Bay ovest: ci vivono 11 specie e serve il livello 100. I pesci che pagano di piu': pesce lupo, rana pescatrice, nasello.
+Palomino Highlands: ci vivono 24 specie e serve il livello 54. I pesci che pagano di piu': Bass di secca, Pavone maculato, Warmouth.
+Palude di Zancudo est: ci vivono 15 specie e serve il livello 18. I pesci che pagano di piu': Warmouth, persico trota, Pavone farfalla.
+Palude di Zancudo ovest: ci vivono 16 specie e serve il livello 26. I pesci che pagano di piu': Bass maculato, Warmouth, persico trota.
+Ponte Calafia: ci vivono 6 specie e serve il livello 14. I pesci che pagano di piu': Trota fascia rossa dell'Oregon, Trota golatagliata, boccapiccola.
+Riva est di Alamo: ci vivono 32 specie e serve il livello 46. I pesci che pagano di piu': lucioperca, luccio, ido.
+Riva nord di Alamo: ci vivono 16 specie e serve il livello 30. I pesci che pagano di piu': Walleye, luccio, boccapiccola.
+Riva nord-est di Alamo: ci vivono 15 specie e serve il livello 42. I pesci che pagano di piu': lucioperca, luccio, tinca.
+Riva ovest di Alamo: ci vivono 10 specie e serve il livello 8. I pesci che pagano di piu': Walleye, luccio, Luccio a catena.
+Sandy Shores: ci vivono 15 specie e serve il livello 42. I pesci che pagano di piu': lucioperca, luccio, tinca.
+Slab: ci vivono 10 specie e serve il livello 2. I pesci che pagano di piu': Bass maculato, Luccio d'erba, Shiner codanera.
+Spiaggia di Pacific Bluffs: ci vivono 12 specie e serve il livello 83. I pesci che pagano di piu': Dentice rubino, calamaro di scogliera, marlin striato.
+Spiaggia e molo di Chumash: ci vivono 12 specie e serve il livello 83. I pesci che pagano di piu': calamaro di scogliera, marlin striato, lampuga.
+Sponda sud di Alamo: ci vivono 10 specie e serve il livello 2. I pesci che pagano di piu': Bass maculato, Luccio d'erba, Shiner codanera.
+Torrente di Tongva alto: ci vivono 10 specie e serve il livello 38. I pesci che pagano di piu': Pesce nero dell'Alaska, luccio, salmone rosa.
+Torrente di Tongva basso: ci vivono 14 specie e serve il livello 20. I pesci che pagano di piu': trota fario di torrente, temolo, trota marmorata.
+Vespucci Beach e molo di Del Perro: ci vivono 11 specie e serve il livello 83. I pesci che pagano di piu': carangide gigante, Jobfish verde, tonno obeso.
+Torneo Barbel Gent Hunt: barbo a Torrente di Tongva basso, 45 minuti, livello 20, iscrizione $1020. Oro a 24 kg, premio $14280.
+Torneo Bass Challenge: persico trota a Fiume Zancudo basso, 45 minuti, livello 18, iscrizione $930. Oro a 15 kg, premio $13020.
+Torneo Best Five Bass: boccapiccola a Cassidy Creek basso, 45 minuti, livello 14, iscrizione $750. Oro a 13 kg, premio $10500.
+Torneo Big Bowfin Hunting: amia a Palude di Zancudo est, 30 minuti, livello 18, iscrizione $390. Oro a 8 kg, premio $5460.
+Torneo Big Headhunters: carpa a Mirror Park, 45 minuti, livello 42, iscrizione $2010. Oro a 56 kg, premio $28140.
+Torneo Breaking shad: alosa americana a Mount Chiliad, 30 minuti, livello 30, iscrizione $570. Oro a 12 kg, premio $7980.
+Torneo Carp Foundation: carpa a Fiume Zancudo alto, 60 minuti, livello 42, iscrizione $2010. Oro a 56 kg, premio $28140.
+Torneo Catch em' All: tutti i pesci del lago a Laghetti del golf, 30 minuti, livello 4, iscrizione $300. Oro a 5.5 kg, premio $4200.
+Torneo Catfish Trial: pesce gatto punteggiato a Slab, 45 minuti, livello 26, iscrizione $1290. Oro a 28 kg, premio $18060.
+Torneo Cats 'n Nightcatchers: Pesce gatto blu a Palude di Zancudo ovest, 30 minuti, livello 30, iscrizione $1470. Oro a 72 kg, premio $20580.
+Torneo Cheesy cat: pesce gatto punteggiato a Sponda sud di Alamo, 30 minuti, livello 8, iscrizione $480. Oro a 9.5 kg, premio $6720.
+Torneo Cranky Pike: luccio a Lago di Vinewood, 45 minuti, livello 13, iscrizione $705. Oro a 16 kg, premio $9870.
+Torneo Dancing with Pike: Luccio a catena a Riva ovest di Alamo, 30 minuti, livello 26, iscrizione $1290. Oro a 8 kg, premio $18060.
+Torneo Danger in the grass: carpa erbivora a Riva nord-est di Alamo, 45 minuti, livello 42, iscrizione $2010. Oro a 48 kg, premio $28140.
+Torneo Dream Bream Hunt: abramide a Foce del Cassidy, 30 minuti, livello 42, iscrizione $2010. Oro a 13 kg, premio $28140.
+Torneo Emerald Predator Hunt: tutti i pesci del lago a Diga di Land Act, 45 minuti, livello 5, iscrizione $345. Oro a 5.5 kg, premio $4830.
+Torneo Exactly Zander: lucioperca a Sandy Shores, 45 minuti, livello 42, iscrizione $300. Oro a 5.5 kg, premio $4200.
+Torneo Fly like a Butterfly Swim like a Bass: Pavone farfalla a Palomino Highlands, 30 minuti, livello 54, iscrizione $930. Oro a 16 kg, premio $13020.
+Torneo Four Bloody Barbel: barbo a Torrente di Tongva basso, 45 minuti, livello 20, iscrizione $390. Oro a 8 kg, premio $5460.
+Torneo Grass Сutter Range: carpa erbivora a Riva est di Alamo, 45 minuti, livello 50, iscrizione $2370. Oro a 48 kg, premio $33180.
+Torneo Ideal Accuracy: ido a Cassidy Creek alto, 30 minuti, livello 48, iscrizione $660. Oro a 7 kg, premio $9240.
+Torneo Idle Ide: ido a Foce del Cassidy, 45 minuti, livello 12, iscrizione $300. Oro a 5.5 kg, premio $4200.
+Torneo Jolly Carp: carpa a Foce dello Zancudo, 60 minuti, livello 50, iscrizione $2370. Oro a 56 kg, premio $33180.
+Torneo Kaniq Topwater Rodeo: tutti i pesci del lago a Land Act ovest, 30 minuti, livello 38, iscrizione $1830. Oro a 38 kg, premio $25620.
+Torneo Length Matters: anguilla europea a Riva nord-est di Alamo, 60 minuti, livello 42, iscrizione $660. Oro a 12 kg, premio $9240.
+Torneo Lucky Ghost Hunt: carpa fantasma a Grapeseed, 45 minuti, livello 50, iscrizione $2370. Oro a 40 kg, premio $33180.
+Torneo Lucky Spot: Bass maculato a Laghetti del golf, 45 minuti, livello 26, iscrizione $1290. Oro a 8 kg, premio $18060.
+Torneo Midnight Salmon Galore: salmone reale a Torrente di Tongva alto, 30 minuti, livello 38, iscrizione $1830. Oro a 64 kg, premio $25620.
+Torneo Mighty Three: Pavone maculato a Palomino Highlands, 45 minuti, livello 54, iscrizione $2550. Oro a 28 kg, premio $35700.
+Torneo Moonlight Gars: lepisosteo alligatore a Palude di Zancudo ovest, 30 minuti, livello 31, iscrizione $1515. Oro a 80 kg, premio $21210.
+Torneo Muskie Topping: Muskellunge a Riva nord di Alamo, 30 minuti, livello 30, iscrizione $1470. Oro a 72 kg, premio $20580.
+Torneo Neherrin minimal: Crappie nero a Diga di Land Act, 45 minuti, livello 10, iscrizione $570. Oro a 2.5 kg, premio $7980.
+Torneo Old Buck's Competition: trota iridea a Ponte Calafia, 30 minuti, livello 14, iscrizione $480. Oro a 9.5 kg, premio $6720.
+Torneo One by one: tutti i pesci del lago a Land Act nord, 30 minuti, livello 22, iscrizione $480. Oro a 9.5 kg, premio $6720.
+Torneo One of us,Two of Asp: aspio a Riva est di Alamo, 45 minuti, livello 46, iscrizione $1020. Oro a 28 kg, premio $14280.
+Torneo Salmon Clash: salmone reale a Foce dello Zancudo, 45 minuti, livello 38, iscrizione $1830. Oro a 64 kg, premio $25620.
+Torneo Saltwater Giants: tutti i pesci del lago a Spiaggia di Pacific Bluffs, 60 minuti, livello 83, iscrizione $2550. Oro a 38 kg, premio $35700.
+Torneo San Joaquin Extravaganza: tutti i pesci del lago a Spiaggia e molo di Chumash, 60 minuti, livello 83, iscrizione $1650. Oro a 38 kg, premio $23100.
+Torneo School Bass: persico trota a Fiume Zancudo basso, 30 minuti, livello 4, iscrizione $300. Oro a 5.5 kg, premio $4200.
+Torneo Scores from the bottom: tutti i pesci del lago a Vespucci Beach e molo di Del Perro, 45 minuti, livello 83, iscrizione $660. Oro a 12 kg, premio $9240.
+Torneo Spin The Trout: trota iridea a Land Act ovest, 45 minuti, livello 20, iscrizione $1020. Oro a 12 kg, premio $14280.
+Torneo Spinning Perch: persico reale a Mirror Park, 45 minuti, livello 4, iscrizione $300. Oro a 5 kg, premio $4200.
+Torneo Steelhead Showdown: trota steelhead a Foce dello Zancudo, 45 minuti, livello 34, iscrizione $1650. Oro a 48 kg, premio $23100.
+Torneo Sturgeon in the Dark: storione bianco a Foce dello Zancudo, 45 minuti, livello 36, iscrizione $1740. Oro a 120 kg, premio $24360.
+Torneo Teenies in the Night: tutti i pesci del lago a Isolotto di San Chianski, 45 minuti, livello 94, iscrizione $2010. Oro a 38 kg, premio $28140.
+Torneo The Battle of Kaniq: tutti i pesci del lago a Faro di El Gordo, 30 minuti, livello 100, iscrizione $1830. Oro a 38 kg, premio $25620.
+Torneo The Size Matters: trota fario a Ponte Calafia, 30 minuti, livello 30, iscrizione $1470. Oro a 23 kg, premio $20580.
+Torneo Top Notch Walleye: Walleye a Lago di Vinewood, 30 minuti, livello 30, iscrizione $1470. Oro a 16 kg, premio $20580.
+Torneo Trout Hunter: trota iridea a Diga di Land Act, 30 minuti, livello 14, iscrizione $750. Oro a 12 kg, premio $10500.
+Torneo Yellow Perch Goldrush: persico giallo a Riva ovest di Alamo, 30 minuti, livello 8, iscrizione $345. Oro a 4 kg, premio $4830.
+Torneo Zander Zeek Differences: lucioperca a Fiume Zancudo alto, 45 minuti, livello 24, iscrizione $660. Oro a 12 kg, premio $9240.

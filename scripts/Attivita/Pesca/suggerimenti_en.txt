@@ -3,66 +3,526 @@
 # Written in player language, but they only say things the game really does.
 # Same line in suggerimenti_it.txt is the Italian: the order must match.
 # Each tip must fit seven lines of the box: about 300 characters.
-Water temperature matters: every fish has its own. In cold water trout come out, in warm water carp and catfish. You see it on the HUD, next to the air temperature.
-Not every fish feeds at the same hour. Some move at night, some at dawn and dusk, some in broad daylight. If nothing bites, try a different time.
-In the zone card there's a graph of fish activity hour by hour. The hours where the curve is high are the good ones for fishing.
-Every fish has its favourite baits. Find them in its card, inside ZONES. With the right bait it always bites, with the wrong one it often leaves.
-With the wrong bait, now and then a piece of junk hooks up: a shoe, a tyre, a bottle. With the right bait it never happens.
-With nothing on the hook nobody bites. Before casting, check you have a bait or a lure at the tip.
-Hook size depends on the fish: small hooks for small fish, big hooks for big ones. Every fish card shows its size.
-With a big hook you catch the bigger fish of that species, but with a hook too big the small fish won't bite. Choose by what you want to bring home.
-Hooks go from number 16, the smallest, to number 1. Then come the sizes with a zero, from 1/0 to 18/0: the higher the number, the bigger the hook.
-Pike, bass and other toothy predators cut the line. Against them mount a titanium leader before the hook.
-Predators rarely bite natural bait, and almost only the small ones. For them you need lures: spoons, minnows, soft plastics.
-Every predator's card lists the lures it chases. With one of those it bites gladly, with the others almost never.
-Every fish family wants its own rod: carp wants carp and bottom rods, predators spinning and casting, sea fish sea rods. With the wrong rod it bites less.
-The spoon is for a spinning or casting rod. With a float rod it's nearly useless.
-Rod, reel and line each hold a certain weight. What you can land is the weakest of the three: read it on the HUD next to the rod.
-A fish heavier than what you can hold won't even hook up. If a zone has big fish, bring sturdier gear.
-To cast far, the bait must have the right weight for the rod: it's written on the rod in grams. Too light makes a few metres, too heavy won't fly.
-The longer you hold the cast button, the farther the bait goes. The last moments of the charge are worth more than the first.
-A thin line goes farther and more of it fits on the reel, but it holds less. A thick line holds more but brakes the cast.
-A long rod casts farther than a short one.
-The reel drag is set with the dpad, left and right. Fully closed, the fish pulls on the line and tension rises fast. The more it's open, the more line the fish takes.
-During the fight watch the tension bar: if it stays in the red the line snaps. Ease off when the fish runs, reel in when it stops.
-The last metres are the hardest: near the shore the fish digs in. Don't force it right at the end.
-When the fish bites you have just over a second to set the hook with A. The dancing float and the vibrating pad warn you just before.
-With a float, if you pull hard while the fish tastes the bait you scare it. Reel slowly and wait for it to go under.
-Bait depth under the float is set with the dpad, up and down. Some fish feed near the bottom, others mid-water.
-If the float on the HUD lies flat on the water, the bait is touching the bottom. Shorten the depth.
-The float has a load: light, medium or heavy. It must carry the sinker and the bait you hang under it.
-Spoon and float are not used together. Spinning, the lure is both bait and hook.
-If the cast lands on grass or asphalt, the line comes back by itself. Find a clear spot towards the water.
-When the line snaps you lose the hook, the float and the bait. With a leader mounted only the leader snaps and the line stays whole.
-The keepnet has two limits: the weight of the biggest single fish it takes and the total weight. When it's full, you can only release the fish.
-While fishing, under the keepnet on the HUD you see what you've already caught today.
-To go fishing you need at least a rod, a reel with line and a keepnet.
-Before going out load the backpack from the EQUIPMENT tab. What you leave at home stays at home: you won't go back during the day.
-The backpack holds one rod, one reel, two lines and ten items. A second piece identical to one you already have takes no room.
-The rod case makes room for more rods, reels and lines. The tackle box for more items. Owning them is enough, even if they stay at home.
-Line is bought by the spool. Mounting it on the reel you take only as much as fits; the rest stays as a spool to use another time.
-Hold LB to open the tackle wheel. Pick the slice with the stick, scroll the pieces with the dpad, release LB and everything mounts.
-In the wheel the first entry of every slice is Empty: it unmounts that piece.
-The licence is bought from the ZONES tab, even from far away. Then go to the spot and press Start fishing. It covers the whole water, not just the stretch you're on.
-The three-day licence costs less than three one-day licences. If you come back often to the same water it pays.
-A fishing day lasts about two real hours. At the end the fish in the keepnet sells itself and the mounted gear goes back to the backpack.
-Fish sells at the end of the day, by weight. The bigger and finer, the more it's worth.
-Gear resells at half price, with X, from home or from the backpack.
-Catching a new species is worth much more than catching the same one again. To level up change fish, not just place.
-The right bait makes the fish bite, the right hook opens up its size. Points come from new species and big fish.
-Trophies and unique specimens are worth much more than common fish, in points and in money.
-Inside every water there are spots where a species lives: a hole, a bank, a reed bed. They aren't marked on the map, you find them by trying.
-Offshore, on the deep spots, the fish are bigger. Don't always fish under the bank.
-The fish you see passing underwater are the ones living in that water. They tell you what's there, not what will bite.
-If nothing bites ask yourself four things: what time it is, how warm the water is, what hook you have and what bait.
-Big waters have several stretches of shore, and each stretch has its own fish and its own level. Check them in the ZONES tab.
-The log, LOG tab, keeps for every zone the fish you caught and for every species your record, with the bait and hook you used.
-In the zone card the three boxes common, trophy and unique get ticked when you catch them in that place. The exploration bar says how many species of the place you've found.
-Levelling up unlocks new gear and zones. At level 100 all 35 waters are open.
-Tournaments are in the TOURNAMENTS tab. Buy the ticket, go to the spot and press Start the tournament. Each tournament is about one fish, in the water where it lives.
-You can't enter a tournament with a licence in your pocket, and you can't buy a licence with a ticket in your pocket. Finish one thing first, then the other.
-In a tournament the winner is who puts together the most kilos of that fish. Bronze, silver and gold each have their prize, and trophies and uniques give an extra.
-The menu opens with RB + dpad LEFT, or with F7. Inside the menu the game is paused: take all the time you want.
-The full guide is in the menu, SETTINGS tab, Guide entry. There you also change language and units.
-Rare fish are really rare. To catch them you need everything together: their spot, their hour, their hook and their bait.
-Every water on the map has the fish of a real water: the Alamo Sea is an American lake of catfish and bass, the Zancudo river a trout stream, the Paleto sea a northern fjord.
+# The first 250 are hand written, ten per topic; the others come from the data
+# files: one per species, one per zone, one per tournament.
+Every rod has a casting weight written in grams: it is the weight it casts well. With something much lighter or much heavier at the tip the cast gets shorter.
+A long rod casts farther than a short one, with the same weight at the tip. If you need to reach offshore, look at the length first.
+The nine rod types are: spinning, casting, bottom, feeder, match, carp, telescopic, sea, spod. Each one serves a family of fish.
+With the wrong rod for that fish the odds drop a lot: with a match, bottom or telescopic rod a bit less, with the others much more.
+Spinning, casting and sea rods are the casting rods: they are the only ones the lure really works with.
+The rod holds a certain fish weight. It is written on the HUD next to the rod, together with the reel and line limits.
+Carp, feeder, spod and bottom are the carp rods. With one of those in hand carp come at their full odds.
+Pike, bass and perch want spinning or casting. They are the predators: casting rod and lure.
+Trout and salmon are caught with spinning, casting or match. The other rods lower their odds.
+At sea you need sea rods or casting rods. A match rod on the rocks is not the right choice.
+The reel has a drag in kilos: it is the most it can hold. If the fish weighs more, that number is your limit.
+The reel capacity is written by diameter: the thinner the line, the more metres fit on the spool.
+The retrieve ratio says how much line you gather per turn. A high ratio reels in faster.
+When you mount the line the reel takes only as much as it holds: the rest stays as a spare spool.
+On the HUD the reel is the circle at the bottom right, with the drag ring around it.
+A reel with little drag is fine for small fish: on big ones it gives way before the line does.
+Reels come as spinning, casting and sea, like the rods they go on.
+Changing reel also changes how many metres of line you can hold: check the metres on the HUD after mounting it.
+The reel sings when the fish takes line and ticks when you are the one reeling in. By ear you know who is winning.
+A big reel on a light rod is useless: what counts is always the weakest of the three parts.
+There are four line types: mono, fluorocarbon, braid and sea lines.
+Every line has three numbers: diameter in millimetres, the kilos it holds and the metres on the spool.
+A thin line goes farther and more of it fits on the reel, but it holds less weight.
+A thick line holds more but brakes the cast: a few metres less on every throw.
+Line is bought by the spool. If the reel holds less, the rest stays as a separate spool to use another time.
+Cut spools are in TACKLE under Lines, with the metres they have left.
+Unmounting the line from the reel gives you back a spool with the metres left on it.
+When the line snaps you lose three metres, the hook, the sinker, the float and the bait.
+If you have a leader mounted and something gives way, the leader snaps: the main line stays whole.
+Watch the metres on the HUD: with an almost empty spool, a running fish can take all your line.
+The drag is set with the dpad, left and right, and has twelve positions.
+With the drag fully closed the line does not give: you reel in fast, but tension rises just as fast.
+With the drag open the fish takes line and pulls much less on it. It is the fish that tires, not your line.
+The rule of thumb: close it when the fish is still, open it when it runs.
+On the HUD the drag is the notched ring around the reel, with the percentage below.
+With a fish much heavier than what you can hold, a closed drag means a certain break.
+With a soft drag the metres come slowly even when you reel in: that is the price of safety.
+The drag can be changed at any moment, even mid fight. In fact that is when it matters.
+If the line snaps often, before buying a thicker one try opening the drag.
+The drag also affects the metres you gain: closed you take more per turn, but with more tension.
+Hooks go from #16, the smallest, to #1. Then come the sizes with a zero, from #1/0 to #18/0.
+In every fish card, inside SPOTS, there is the range of hooks that suit it.
+With a hook inside its range the fish comes at full odds. One size out and the odds already drop a lot.
+Three sizes out of its range and that fish practically stops biting.
+The hook also decides the size: with the small size of the range only commons come.
+From the middle of the range up trophies start to come; with the largest size unique specimens too.
+A big hook does not guarantee a big fish: it opens the ceiling, it does not take you there. The die always leans low.
+In the shop the hooks are #16, #14, #12, #10, #8, #6, #4, #2 and #1, then the sizes with a zero.
+Every hook belongs to a fish family: the right one for its family works better than a generic one.
+A hook specialised for another family works worse than a generic one. If you lack its own, a neutral one is better.
+Besides hooks, the same category holds jig heads, ready-made rigs, leaders and sinkers.
+The jig head is hook and lead in one piece: it is for soft silicone baits.
+On jig heads the number with the hash is the hook size, the grams are the lead.
+The leader is the piece of line before the hook. The titanium one is for fish with teeth.
+With a leader mounted, if something gives way the leader snaps and the main line stays whole. It costs less than a spool.
+A sinker alone does not fish: at the tip you always need a hook, a jig head, a rig or a lure.
+The sinker adds weight to the cast: with a very light bait it is the only way to reach far.
+Ready-made rigs are complete terminal tackle: they have their own hook size, like a single hook.
+Sinkers are measured in ounces in the catalogue, but the row also shows the real grams.
+Hook, jig head, rig: only one at a time at the tip. Leader and sinker have their own separate slots.
+The float has a load: light, medium or heavy. It says how much lead it carries.
+On the HUD the float is drawn to scale with the real bottom of that patch of water.
+If the float lies flat on the water it means the bait is touching the bottom: shorten the depth.
+Float and lure are not used together: spinning, the spoon is both bait and hook.
+Mounting a lure unmounts the float: they are two different ways of fishing.
+A light-load float with a heavy sinker under it is not the right pair.
+How big you see the float on the water is set in SETTINGS, first entry.
+The float is your signal: when it dances the fish is tasting, when it goes under it has taken.
+Floats come as classic, slider and waggler, in different sizes and shapes.
+You can fish without a float, on the bottom: the float is there to see and to hold the bait up.
+The bait depth under the float is set with the dpad, up and down.
+It goes from thirteen centimetres to two and a half metres, in steps of thirteen centimetres.
+On the HUD, under the dial, you read the depth you set and, with the line in the water, the real bottom.
+If the bottom is less than the depth you set, the bait drags on the ground and the float lies flat.
+Some fish feed near the bottom, others mid-water: if nothing bites, try changing the depth.
+The depth can also be changed before the cast, with the rod in hand: it is more convenient.
+Casting far the bottom changes: the same depth that worked near the bank may not work any more.
+The water dial on the HUD also tells you which water it is: sea, lake or river, with its own bottom.
+Spinning, depth does not count: the lure sinks and works while you reel in.
+With the bait mid-water you avoid the junk on the bottom, but you lose the bottom feeders.
+Natural baits come in five families: common, worms and insects, fresh, boilies and pellets, sea.
+Every fish has its favourite baits: you find them in its card, inside SPOTS.
+With one of its own baits the fish always bites. With another one it bites one time in three.
+The bait is used up at every bite: when it runs out the hook is bare and nobody bites any more.
+With RB, or Q on the keyboard, you change bait among the ones in the backpack without opening the menu.
+Baits are bought by the pack: the shop row says how many you get.
+A fish with no favourite baits in the catalogue bites any natural bait.
+Boilies and pellets are carp stuff: almost no small fish uses them.
+Sea baits are for the sea: on lakes they count as a wrong bait.
+The bait row also shows the hook size it is usually used with.
+Lures come in six types: spoons, spinners, minnows and poppers, bass jigs, soft plastics, sea.
+Every lure carries its own hook size: it counts for the size exactly like a normal hook.
+Predators rarely bite natural bait and almost only small ones: for them you need a lure.
+Every predator card lists the lures it actually chases.
+A lure that fish does not chase catches it one time in three, like a wrong bait.
+A lure works fully only with a spinning, casting or sea rod. With the others almost nothing.
+A lure is not used up like bait: it stays there until you lose it in a break.
+The grams of the lure count in the cast: a heavy spoon goes much farther.
+Soft plastics are usually used with a jig head, which gives them weight and a hook.
+With a spoon you need no float and no depth setting: you just reel in.
+Hold RT to charge the cast and release to let it go. The bar fills while you charge.
+The casting bar is not linear: the first taps make a few metres, the last ones are worth a lot.
+The weight at the tip is the lure, jig head and sinker. Natural bait weighs nothing in the cast.
+If the weight at the tip sits inside the rod casting weight, the cast performs at its best.
+With a weight too light for that rod the cast gets a lot shorter.
+With a weight too heavy the cast also gets shorter: the rod cannot throw it.
+If the bait lands on grass or asphalt the line comes back by itself: look for open water.
+Casting distance does not change the wait or who bites: it only matters for hot spots.
+A thin line runs better through the guides and lengthens the cast; a thick one brakes it.
+Before casting you can walk along the shore with the rod in hand and choose your spot.
+How long you wait depends on how alive the water is now, not on luck.
+If the place has a fish at its optimum temperature, the wait is about a minute.
+If the fish of the place are all at the edges of their range, the wait goes up to two and a half minutes.
+If no fish of the place is in its temperature range, it can take six or seven minutes.
+Reeling in slowly while you wait shortens the wait a little and moves the bait.
+If you wait too long, change hour or change place: it is the water that is still, not your tackle.
+The activity graph on the HUD tells you at a glance whether this is a good hour.
+During the wait the float really does sit still: the game has not frozen.
+With a float, pulling hard while the fish tastes scares it away.
+In the last seconds before the bite the float dances and the pad vibrates: get ready.
+When the fish takes, the float goes under, the pad vibrates hard and the prompt to set the hook appears at the bottom.
+You have a second and a half to press A and set the hook. After that, the fish is gone.
+If you did not set the hook, the bait stays and the wait restarts: you lost nothing but time.
+There is no point pressing A early: setting the hook on nothing does not bring the bite forward.
+Keep your hands on the buttons when the float starts dancing: it is the last warning.
+The pad vibrates in two ways: gently when it tastes, hard when it has taken.
+With no bait on the hook nobody bites: before casting check you have one.
+If the bait ran out during the day, you see it at zero in the HUD circle.
+Every bite uses up one bait, even when the fish then gets away.
+Spinning, the bite comes while you reel in: you feel the hit on the rod.
+During the fight hold RT to reel in. The bar above the drag is the line tension.
+Tension goes from blue to green, yellow and red. In the red the line is at its limit.
+If tension stays at the top for more than a moment, the line snaps. There is a margin, it is not instant.
+Release the reel when the fish runs, take it back when it stops: that is the whole fight.
+If you pull and it pulls, the line makes no metres: it stays put and loads up with tension.
+The fish tires as you go: its runs get rarer and shorter, but they never stop completely.
+A fish near the limit of your tackle tires much more slowly than a small one.
+The last metres are the hardest: near the bank the fish sees the shore and digs in.
+Under four metres the fish makes one last run: that is where big fish are lost.
+With the left stick you move the rod left and right and drag the fish along.
+Some fish have teeth: pike, barracuda, sharks and other predators.
+A toothy fish over one kilo two hundred, with no leader, cuts your line after a few seconds.
+Against toothy fish mount a leader, better if titanium: that is what it is for.
+If the line snaps right after the hook-up and the message mentions teeth, you needed a leader.
+Small toothy fish can be caught on bare line: it is the weight that makes the difference.
+The fish card shows if it is a predator: the ones with lures almost always bite through.
+The leader does not reduce your bite odds: mounting it just in case costs you nothing.
+With a leader, when something gives way, you lose the leader and not the whole spool.
+If you fish a water full of pike, mount the leader before the first cast.
+A toothy fish does not cut at once: you have a few seconds to work out what took.
+Every species has three sizes: common, trophy and unique specimen, with different weights.
+The minimum weight that can come out is a bit more than half the common weight of that species.
+The size ceiling is decided by the hook you have mounted, inside the fish range.
+The ceiling never exceeds what your tackle holds: with light gear, no huge fish.
+On the deep hot spot, offshore, the size shifts upwards.
+A predator caught on natural bait comes out almost only small.
+After a unique specimen, that species gives no more for twenty real minutes.
+After a trophy, no more trophies of that species for five minutes.
+The pause is per species: the pike unique does not block the carp unique.
+At the golf course ponds only common fish come: it is a place to learn, not for records.
+The keepnet has two limits: the biggest single fish it takes and the total weight.
+If the fish is too big for your keepnet, the card tells you and you can only release it.
+With the keepnet full the day is over: better to close it and sell.
+While fishing, under the keepnet on the HUD you see the kilos already inside.
+In TACKLE, under Keepnets, there is the list of today's fish.
+The fish in the keepnet sells itself at the end of the day: you do nothing else.
+A released fish still leaves you the points and the log entry: you only lose the money.
+You carry one keepnet at a time: if you buy a bigger one, the other stays home.
+Stringers are small, cheap keepnets: to start out they are perfectly fine.
+A big keepnet is expensive, but it decides how much you can earn in a day.
+The basic backpack holds one rod, one reel, two lines and ten items.
+Items count by type, not by piece: ten identical hooks take one slot only.
+A second spoon identical to one you already have takes no extra room.
+The rod case adds slots for rods, reels and lines. Owning it is enough, even if it stays home.
+The tackle box adds slots for items and lines. It counts wherever it is too.
+The room adds up: backpack plus rod case plus tackle box.
+If you own two boxes the biggest one counts, not the sum of both.
+Before going out load the backpack: during the day home is closed.
+What you left at home stays home: no shortcuts halfway through the day.
+When in doubt take a spare hook and a spare line: those are the items you really lose.
+Everything you buy ends up at home. Home has unlimited room.
+In TACKLE A moves a piece between home and backpack, X sells it, Y throws it away.
+Tackle resells at half price, and only from home: on the shore you cannot sell.
+Selling and throwing away ask for confirmation: the second press really confirms.
+While fishing the shop stays open but costs three times as much: it is the stall on the spot.
+The green triangle in the shop marks what you already own: at home, in the backpack or mounted.
+The level written in yellow is what you need to buy. In red it means you are not there yet.
+Buying while fishing puts the piece straight into the backpack, if there is room.
+Tackle prices are the catalogue ones divided by ten.
+Planning ahead saves money: the stall on the spot is handy but expensive.
+The licence is bought from the SPOTS tab, even from far away, and stays in your pocket.
+The day starts only when you are on the spot and press Start fishing.
+The licence covers the whole water, not the single stretch of shore.
+The three-day licence costs less than three one-day licences.
+The licence price depends on the stretch and on your level: you pay for what you can fish.
+The day starts at five in the morning and lasts about two real hours.
+One game minute passes every five real seconds: the day runs by itself.
+At the end of the day the keepnet empties, the fish is sold and the mounted tackle goes back to the backpack.
+Stop fishing, in the SPOTS tab, ends the day early: the licence ends there.
+You can quit the game mid-day: next start you resume at the same hour.
+Air and water temperature are on the HUD, at the top left.
+Air is coldest at four in the morning and warmest around four in the afternoon.
+Weather shifts the temperature by a few degrees: in full sun the water warms up.
+Higher up it is colder: above fifty metres air drops half a degree every hundred metres.
+Water is steadier than air: it changes slowly and does not follow every swing of the sky.
+Every species has its temperature range, with an optimum value in the middle.
+At its optimum temperature the fish comes at its best odds.
+At the edges of its range the fish comes much less: temperature really counts.
+More than four degrees outside its range, that fish does not come at all.
+In cold water trout and pike come out, in warm water carp and catfish.
+Every species has its hours: some feed at night, some at dawn and dusk, some in broad daylight.
+Night runs from nine in the evening to five in the morning; dawn and dusk are the two three-hour bands around it.
+A night fish comes very rarely by day: it is not bad luck, it is the wrong hour.
+Dawn and dusk fish are the handiest: two good windows every day.
+Some species feed at any hour, but never at their best: they are the steadiest ones.
+The activity graph in the zone card shows the good hours of that place.
+The same graph is on the HUD while fishing, with a dot on the current hour.
+If the hour is wrong for every fish of the place, the wait gets very long.
+The day starts at five: the first hour is already inside the dawn window.
+Waiting a couple of game hours on the spot costs a few real minutes and changes everything.
+Inside every water there are spots where a species lives: a hole, a bank, a reed bed.
+Over its spot that fish becomes six times more likely than the others.
+Hot spots are not marked on the map: you find them by casting and trying.
+On the deep spots, offshore, size shifts upwards: the bigger fish come out.
+In big lakes and at sea there are spots one and two hundred metres from the shore.
+The middle of the lake is not empty: if you have the rod to reach it, try it.
+If the same species keeps biting in one spot, you are on it: stay there.
+A hot spot is worth more than better gear, when you are after one precise species.
+Rare fish are caught almost only on their spots, at their hour, with their hook.
+Moving the landing point by ten metres can completely change what bites.
+Tournaments are in the TOURNAMENTS tab: one per species, in the water where that fish lives.
+You buy the ticket from anywhere and it stays in your pocket until you are on the spot.
+With a licence in your pocket or running you cannot enter a tournament.
+With a ticket in your pocket you cannot buy a licence: one thing at a time.
+The tournament has its own start hour and weather: when it starts, the sky changes.
+Only fish of the tournament species put in the keepnet count: the others score nothing.
+Bronze, silver and gold are kilo thresholds to reach, each with its own prize.
+A trophy and a unique specimen give an extra prize on top of the medal.
+If you withdraw, the day closes at once: no prize and no record.
+Your best result stays as the tournament record and you see it again in its card.
+Every fish landed goes in the log, even if you then release it.
+The log keeps for every zone the fish caught there and how many times.
+For every species the log records the weight record, with the bait and hook you had.
+The three boxes common, trophy and unique are ticked only for the place where you caught them.
+The exploration bar says how many species of that place you have already found.
+The first catch of a species is worth eight times the normal points: changing fish pays off.
+From the second to the fifth catch points are tripled, then they slowly drop.
+A trophy is worth double points, a unique specimen triple.
+It takes about three outings to level up, from start to finish.
+At level one hundred all thirty-five waters are open: after that only the last terminal tackle unlocks.
+Alaska Blackfish: lives at Upper Tongva Creek. It feeds at any hour, water between 1 and 10 degrees. Baits: Flies, Crickets, MayFlies. Hook #6. A rare species.
+Albacore: lives at Vespucci Beach and Del Perro Pier, San Chianski islet and one more. It feeds by day, water between 12 and 22 degrees. Baits: Japanese Jack Mackerel, Finger Mullets, Scaled Sardines. Hook #4/0 - #7/0. A rare species.
+Alligator Gar: lives at Zancudo marsh west. It feeds at night, water between 15 and 28 degrees. Baits: Shiners, Crawfish, Large Cutbait. Hook #2/0 - #11/0. A rare species.
+American Gizzard Shad: lives at Palomino Highlands. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Flies, Pinkies, Bloodworms. Hook #8 - #4. A very rare species.
+American Shad: lives at Mount Chiliad and Lower Cassidy Creek. It feeds at night, water between 8 and 20 degrees. Baits: Natural Eggs, Spawn Sacks, Shrimps. Hook #2 - #1/0.
+Amur Bitterling: lives at Upper Cassidy Creek. It feeds by day, water between 12 and 24 degrees. Baits: Pearl Barley, Dough Ball, Semolina Balls. Hook #16. A rare species.
+Arctic Char: lives at El Gordo Lighthouse and Paleto Cove pier. It feeds at any hour, water between 1 and 10 degrees. Baits: Spawn Sacks, Shrimps, Gulf Shrimp. Hook #3/0 - #6/0. A very rare species.
+Arctic Grayling: lives at Upper Cassidy Creek. It feeds by day, water between 1 and 10 degrees. Baits: Grasshoppers, Crickets, MayFlies. Hook #1/0 - #3/0. A very rare species.
+Asp: lives at Alamo east shore and Lower Tongva Creek. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Grasshoppers, Crickets, Dragonfly. Hook #2/0 - #4/0. A rare species.
+Atlantic Cod: lives at Paleto Cove pier and Paleto Bay east. It feeds at any hour, water between 3 and 12 degrees. Baits: Crab, Gulf Shrimp, Giant Tiger Prawn. Hook #4/0 - #6/0. A very rare species.
+Atlantic Halibut: lives at El Gordo Lighthouse and Paleto Cove pier. It feeds at dawn and dusk, water between 3 and 12 degrees. Baits: Crab, Gulf Shrimp, Large Fish Strips. Hook #7/0 - #15/0. A very rare species.
+Atlantic Herring: lives at El Gordo Lighthouse and Paleto Bay west. It feeds at night, water between 8 and 16 degrees. Baits: Natural Eggs, Spawn Sacks, Sea Worms. Hook #1 - #6. A very rare species.
+Atlantic Horse Mackerel: lives at El Gordo Lighthouse. It feeds at dawn and dusk, water between 8 and 16 degrees. Baits: Spawn Sacks, Sea Worms, Clam Meat. Hook #6 - #1/0. A very rare species.
+Atlantic Mackerel: lives at Paleto Cove pier. It feeds by day, water between 8 and 16 degrees. Baits: Spawn Sacks, Shrimps, Sea Worms. Hook #6 - #1/0. A very rare species.
+Atlantic Salmon: lives at Alamo north shore and Land Act north. It feeds by day, water between 4 and 16 degrees. Baits: Large Minnow, Spawn Sacks, Shrimps. Hook #2/0 - #5/0.
+Atlantic Saury: lives at El Gordo Lighthouse and Paleto Cove pier. It feeds at night, water between 8 and 16 degrees. Baits: Natural Eggs, Spawn Sacks, Sea Worms. Hook #6. A very rare species.
+Atlantic Wolffish: lives at Paleto Bay west and Paleto Bay east. It feeds at any hour, water between 3 and 12 degrees. Baits: Shrimps, Mussel Meat, Crab. Hook #4/0 - #7/0. A very rare species.
+Azov Shad: lives at Alamo east shore. It feeds at night, water between 8 and 20 degrees. Baits: Grasshoppers, Dragonfly, Common Minnow. Hook #6 - #4. A rare species.
+Baikal Omul: lives at Upper Cassidy Creek. It feeds at dawn and dusk, water between 1 and 10 degrees. Baits: Red Worms, Bloodworms, Sideswimmers. Hook #2 - #2/0. A very rare species.
+Beluga: lives at Alamo east shore. It feeds at night, water between 8 and 20 degrees. Baits: Shiners, Crawfish, Large Minnow. Hook #5/0. A rare species.
+Bigeye Tuna: lives at Vespucci Beach and Del Perro Pier, San Chianski islet and one more. It feeds at dawn and dusk, water between 18 and 28 degrees. Baits: Japanese Jack Mackerel, Finger Mullets, Scaled Sardines. Hook #5/0 - #8/0. A rare species.
+Bigfin Reef Squid: lives at Chumash beach and pier and Pacific Bluffs beach. It feeds at night, water between 18 and 28 degrees. Baits: Shrimps, Gulf Shrimp, Japanese Jack Mackerel. Hook #2/0 - #3/0. A very rare species.
+Bighead Carp: lives at Sandy Shores and Alamo north-east shore. It feeds by day, water between 15 and 28 degrees. Baits: Bread, Corn, Peas. Hook #2/0 - #6/0. A very rare species.
+Bigmouth Buffalo: lives at Palomino Highlands. It feeds at dawn and dusk, water between 12 and 24 degrees. Baits: Semolina Balls, Marshmallow, Maggots. Hook #2 - #2/0. A very rare species.
+Black Bullhead Catfish: lives at Lower Zancudo River. It feeds at night, water between 15 and 28 degrees. Baits: Pet Food, Marshmallow, Leeches. Hook #4 - #1/0. A rare species.
+Black Crappie: lives at Alamo west shore, Zancudo marsh west and 3 more. It feeds at dawn and dusk, water between 12 and 24 degrees. Baits: Marshmallow, Maggots, Bloodworms. Hook #8 - #1/0.
+Black Drum: lives at Palomino Highlands. It feeds at any hour, water between 15 and 28 degrees. Baits: Large Minnow, Large Cutbait, Crab. Hook #3/0 - #7/0. A very rare species.
+Black Sea Roach: lives at Alamo east shore. It feeds by day, water between 12 and 24 degrees. Baits: Grasshoppers, Pinkies, Maggots. Hook #3/0 - #4/0. A very rare species.
+Blacktail Shiner: lives at Slab, Alamo south bank and 2 more. It feeds at any hour, water between 8 and 20 degrees. Baits: Dough Ball, Semolina Balls. Hook #8.
+Blue Bream: lives at Alamo east shore. It feeds at night, water between 12 and 24 degrees. Baits: Semolina Balls, Red Worms, Maggots. Hook #14 - #12. A very rare species.
+Blue Catfish: lives at Alamo north shore and Zancudo marsh west. It feeds at night, water between 15 and 28 degrees. Baits: Leeches, Shiners, Crawfish. Hook #3/0 - #8/0. A rare species.
+Bluegill: lives at Slab, Zancudo mouth and 8 more. It feeds by day, water between 15 and 28 degrees. Baits: Dough Ball, Red Worms, Crickets. Hook #8 - #2/0.
+Bluntnose Minnow: lives at Alamo west shore, Mount Chiliad and 3 more. It feeds at any hour, water between 8 and 20 degrees. Baits: Red Worms, Bloodworms. Hook #10.
+Bonefish: lives at Palomino Highlands. It feeds by day, water between 18 and 28 degrees. Baits: Dragonfly, Shrimps, Gulf Shrimp. Hook #1/0 - #5/0. A very rare species.
+Bowfin: lives at Lower Zancudo River, Zancudo marsh west and 2 more. It feeds at night, water between 12 and 24 degrees. Baits: Shiners, Small Cutbait, Large Minnow. Hook #1/0 - #6/0.
+Brill: lives at Paleto Bay west and Paleto Bay east. It feeds at dawn and dusk, water between 3 and 12 degrees. Baits: Shrimps, Mussel Meat, Gulf Shrimp. Hook #2/0 - #4/0. A very rare species.
+Brook Trout: lives at Alamo north shore and Land Act north. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Flies, MayFlies, Artificial Salmon Eggs. Hook #1 - #3/0. A rare species.
+Brown Bullhead Catfish: lives at Mount Chiliad, Zancudo marsh east and one more. It feeds at night, water between 15 and 28 degrees. Baits: Marshmallow, Leeches, Small Cutbait. Hook #4 - #1.
+Brown Trout: lives at Mount Chiliad, Alamo north shore and 2 more. It feeds at night, water between 4 and 16 degrees. Baits: Dragonfly, Spawn Sacks, Small Minnows. Hook #1 - #3/0. A rare species.
+Bull Trout: lives at Upper Tongva Creek. It feeds at dawn and dusk, water between 1 and 10 degrees. Baits: Dragonfly, Shiners, Spawn Sacks. Hook #1/0 - #4/0. A very rare species.
+Burbot: lives at Upper Cassidy Creek and Land Act north. It feeds at night, water between 1 and 10 degrees. Baits: Shiners, Small Cutbait, Crawfish Cuts. Hook #2/0 - #5/0. A rare species.
+Butterfly Peacock Bass: lives at Zancudo marsh east and Palomino Highlands. It feeds by day, water between 15 and 28 degrees. Baits: Leeches, Shiners, Small Minnows. Hook #3/0 - #7/0.
+California Roach: lives at Zancudo mouth. It feeds by day, water between 12 and 24 degrees. Baits: Semolina Balls, Red Worms, Bloodworms. Hook #10. A rare species.
+Chain Pickerel: lives at Alamo west shore, Lower Zancudo River and 2 more. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Shiners, Large Minnow, Small Minnows. Hook #2/0 - #5/0.
+Channel Catfish: lives at Slab, Alamo south bank and 4 more. It feeds at night, water between 15 and 28 degrees. Baits: Pet Food, Leeches, Small Cutbait. Hook #2 - #7/0.
+Chinese Sleeper: lives at Alamo east shore. It feeds at any hour, water between 8 and 20 degrees. Baits: Red Worms, Bloodworms, Leeches. Hook #6 - #4. A rare species.
+Chinook Salmon: lives at Zancudo mouth and Upper Tongva Creek. It feeds by day, water between 4 and 16 degrees. Baits: Shiners, Spawn Sacks, Shrimps. Hook #2/0 - #7/0. A rare species.
+Chub: lives at Alamo east shore, Grapeseed and one more. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Grasshoppers, Flies, Crickets. Hook #4 - #2/0.
+Chum Salmon: lives at Upper Tongva Creek. It feeds by day, water between 4 and 16 degrees. Baits: Shiners, Spawn Sacks, Shrimps. Hook #2/0 - #6/0. A very rare species.
+Clear Muskie: lives at Mount Chiliad. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Shiners, Large Minnow. Hook #3/0 - #9/0. A very rare species.
+Coalfish: lives at Paleto Cove pier and Paleto Bay east. It feeds at dawn and dusk, water between 3 and 12 degrees. Baits: Crab, Gulf Shrimp, Giant Tiger Prawn. Hook #3/0 - #6/0. A very rare species.
+Coho Salmon: lives at Upper Tongva Creek. It feeds by day, water between 4 and 16 degrees. Baits: Shiners, Spawn Sacks, Shrimps. Hook #2/0 - #5/0. A very rare species.
+Colorado Golden Trout: lives at Land Act Dam. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Grasshoppers, Flies, Crickets. Hook #6 - #1/0. A very rare species.
+Common Barbel: lives at Upper Zancudo River and Lower Tongva Creek. It feeds at dawn and dusk, water between 12 and 24 degrees. Baits: Cheese, Semolina Balls, Corn. Hook #6 - #1/0. A rare species.
+Common Bleak: lives at Alamo east shore. It feeds by day, water between 12 and 24 degrees. Baits: Pearl Barley, Dough Ball, Semolina Balls. Hook #14. A rare species.
+Common Bream: lives at Sandy Shores, Alamo east shore and 4 more. It feeds at night, water between 12 and 24 degrees. Baits: Semolina Balls, Peas, Red Worms. Hook #6 - #2.
+Common Carp: lives at Zancudo mouth, Sandy Shores and 7 more. It feeds at dawn and dusk, water between 15 and 28 degrees. Baits: Bread with Honey, Semolina Balls, Marshmallow. Hook #3/0 - #6/0.
+Common Dace: lives at Upper Cassidy Creek. It feeds by day, water between 8 and 20 degrees. Baits: Semolina Balls, Oat-flakes, Grasshoppers. Hook #2 - #1/0. A very rare species.
+Common Ling: lives at El Gordo Lighthouse and Paleto Bay west. It feeds at night, water between 3 and 12 degrees. Baits: Crab, Gulf Shrimp, Giant Tiger Prawn. Hook #4/0 - #7/0. A very rare species.
+Common Minnow: lives at Upper Cassidy Creek. It feeds at any hour, water between 8 and 20 degrees. Baits: Red Worms, Pinkies, Maggots. Hook #16. A rare species.
+Common Nase: lives at Alamo east shore and Upper Zancudo River. It feeds at any hour, water between 8 and 20 degrees. Baits: Pearl Barley, Semolina Balls, Red Worms. Hook #8 - #6. A rare species.
+Common Roach: lives at Sandy Shores, Alamo east shore and 6 more. It feeds by day, water between 12 and 24 degrees. Baits: Pearl Barley, Dough Ball, Semolina Balls. Hook #12 - #8.
+Common Rudd: lives at Alamo east shore and Upper Zancudo River. It feeds by day, water between 12 and 24 degrees. Baits: Pearl Barley, Dough Ball, Semolina Balls. Hook #12 - #10. A rare species.
+Common Shiner: lives at Alamo west shore, Lower Zancudo River and one more. It feeds at any hour, water between 8 and 20 degrees. Baits: Dough Ball, Semolina Balls. Hook #8.
+Common Snook: lives at Zancudo marsh east and Palomino Highlands. It feeds at night, water between 15 and 28 degrees. Baits: Shiners, Large Minnow, Shrimps. Hook #2/0 - #6/0. A rare species.
+Creek Brown Trout: lives at Lower Tongva Creek. It feeds at night, water between 4 and 16 degrees. Baits: Grasshoppers, Flies, Crickets. Hook #6 - #1/0. A very rare species.
+Crucian Carp: lives at Alamo east shore, Grapeseed and 2 more. It feeds at dawn and dusk, water between 15 and 28 degrees. Baits: Dough Ball, Bread with Honey, Semolina Balls. Hook #8 - #2.
+Cusk: lives at El Gordo Lighthouse and Paleto Cove pier. It feeds at any hour, water between 3 and 12 degrees. Baits: Shrimps, Mussel Meat, Crab. Hook #3/0 - #6/0. A very rare species.
+Cutthroat Trout: lives at Calafia Bridge and Land Act Dam. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Grasshoppers, Flies, MayFlies. Hook #1 - #2/0. A rare species.
+Dogtooth Tuna: lives at Chumash beach and pier and Pacific Bluffs beach. It feeds by day, water between 24 and 30 degrees. Baits: Japanese Jack Mackerel, Finger Mullets, Scaled Sardines. Hook #5/0 - #8/0. A rare species.
+Dolly Varden: lives at Upper Tongva Creek. It feeds at dawn and dusk, water between 1 and 10 degrees. Baits: Dragonfly, Shiners, Spawn Sacks. Hook #1/0 - #4/0. A very rare species.
+Eurasian Ruffe: lives at Alamo east shore and Alamo north-east shore. It feeds at night, water between 8 and 20 degrees. Baits: Red Worms, Maggots, Bloodworms. Hook #1.
+European Angler: lives at El Gordo Lighthouse and Paleto Bay west. It feeds at any hour, water between 3 and 12 degrees. Baits: Crab, Large Fish Strips, Scaled Sardines. Hook #5/0 - #9/0. A very rare species.
+European Bitterling: lives at Lower Tongva Creek. It feeds by day, water between 12 and 24 degrees. Baits: Dough Ball, Semolina Balls, Red Worms. Hook #14. A rare species.
+European Brown Trout: lives at Lower Tongva Creek. It feeds at night, water between 4 and 16 degrees. Baits: MayFlies, Dragonfly, Natural Eggs. Hook #1 - #3/0. A very rare species.
+European Eel: lives at Sandy Shores, Alamo north-east shore and 2 more. It feeds at night, water between 12 and 24 degrees. Baits: Cheese, Shiners, Small Cutbait. Hook #4 - #3/0.
+European Flounder: lives at Cassidy mouth. It feeds at dawn and dusk, water between 12 and 24 degrees. Baits: Red Worms, Small Cutbait, Crawfish. Hook #6 - #2. A very rare species.
+European Grayling: lives at Lower Tongva Creek. It feeds by day, water between 4 and 16 degrees. Baits: Grasshoppers, Crickets, MayFlies. Hook #2 - #1/0. A rare species.
+European Hake: lives at Paleto Bay west and Paleto Bay east. It feeds at night, water between 3 and 12 degrees. Baits: Shrimps, Gulf Shrimp, Giant Tiger Prawn. Hook #3/0 - #6/0. A very rare species.
+European Perch: lives at Sandy Shores, Alamo east shore and 7 more. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Red Worms, Bloodworms, Small Minnows. Hook #1 - #6/0.
+European Sea Sturgeon: lives at Paleto Bay east. It feeds at night, water between 8 and 20 degrees. Baits: Mussel Meat, Crab, Gulf Shrimp. Hook #7/0 - #15/0. A very rare species.
+European Weatherfish: lives at Alamo east shore and Mirror Park. It feeds at night, water between 4 and 16 degrees. Baits: Red Worms, Maggots, Bloodworms. Hook #8 - #6.
+Flathead Catfish: lives at Zancudo marsh west and Lower Cassidy Creek. It feeds at night, water between 15 and 28 degrees. Baits: Leeches, Shiners, Crawfish. Hook #3/0 - #8/0. A rare species.
+Florida Gar: lives at Zancudo marsh east. It feeds at night, water between 15 and 28 degrees. Baits: Shiners, Large Minnow, Large Cutbait. Hook #1/0 - #4/0. A very rare species.
+Freshwater Drum: lives at Mount Chiliad, Alamo north shore and 2 more. It feeds at night, water between 12 and 24 degrees. Baits: Peas, Night Crawler, Small Minnows. Hook #1/0 - #5/0.
+Gafftopsail Catfish: lives at Zancudo marsh east and Palomino Highlands. It feeds at night, water between 15 and 28 degrees. Baits: Small Cutbait, Crawfish, Shrimps. Hook #1 - #2/0. A rare species.
+Ghost Carp: lives at Grapeseed. It feeds at dawn and dusk, water between 15 and 28 degrees. Baits: Bread with Honey, Semolina Balls, Marshmallow. Hook #2 - #6/0. A very rare species.
+Giant Grouper: lives at Vespucci Beach and Del Perro Pier and Pacific Bluffs beach. It feeds at dawn and dusk, water between 24 and 30 degrees. Baits: Crab, Large Fish Strips, Japanese Spiny Lobster. Hook #8/0 - #16/0. A rare species.
+Giant Trevally: lives at Vespucci Beach and Del Perro Pier and Chumash beach and pier. It feeds by day, water between 24 and 30 degrees. Baits: Crab, Gulf Shrimp, Medium Fish Strips. Hook #5/0 - #8/0. A rare species.
+Golden Shiner: lives at Alamo west shore, Slab and 10 more. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Dough Ball, Semolina Balls. Hook #8.
+Golden Tench: lives at Grapeseed. It feeds at night, water between 15 and 28 degrees. Baits: Red Worms, Bloodworms, Leeches. Hook #8 - #1. A very rare species.
+Grass Carp: lives at Sandy Shores, Alamo east shore and one more. It feeds by day, water between 15 and 28 degrees. Baits: Bread with Honey, Semolina Balls, Marshmallow. Hook #1/0 - #6/0.
+Grass Pickerel: lives at Alamo west shore, Slab and 3 more. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Large Minnow, Small Minnows. Hook #1 - #2/0.
+Greater Amberjack: lives at Vespucci Beach and Del Perro Pier and Chumash beach and pier. It feeds by day, water between 18 and 28 degrees. Baits: Crab, Gulf Shrimp, Medium Fish Strips. Hook #5/0 - #8/0. A rare species.
+Green Jobfish: lives at Vespucci Beach and Del Perro Pier and Pacific Bluffs beach. It feeds at dawn and dusk, water between 24 and 30 degrees. Baits: Shrimps, Crab, Gulf Shrimp. Hook #4/0 - #7/0. A rare species.
+Green Sunfish: lives at Slab, Alamo south bank and 4 more. It feeds by day, water between 15 and 28 degrees. Baits: Semolina Balls, Marshmallow, Bloodworms. Hook #10.
+Greenland Halibut: lives at Paleto Bay west. It feeds at any hour, water between 1 and 10 degrees. Baits: Crab, Gulf Shrimp, Large Fish Strips. Hook #7/0 - #11/0. A very rare species.
+Greenland Shark: lives at El Gordo Lighthouse and Paleto Bay west. It feeds at night, water between 1 and 10 degrees. Baits: Large Fish Strips, Gutted Fish, Fish Head. Hook #10/0 - #16/0. A very rare species.
+Gudgeon: lives at Alamo east shore. It feeds by day, water between 8 and 20 degrees. Baits: Red Worms, Bloodworms, Night Crawler. Hook #16. A rare species.
+Haddock: lives at El Gordo Lighthouse and Paleto Bay west. It feeds by day, water between 3 and 12 degrees. Baits: Spawn Sacks, Shrimps, Mussel Meat. Hook #3/0 - #5/0. A very rare species.
+Humpback Whitefish: lives at Upper Cassidy Creek. It feeds at dawn and dusk, water between 1 and 10 degrees. Baits: Red Worms, Bloodworms, Natural Eggs. Hook #1 - #2/0. A very rare species.
+Hybrid F1 Carp: lives at Grapeseed. It feeds at dawn and dusk, water between 15 and 28 degrees. Baits: Dough Ball, Bread with Honey, Semolina Balls. Hook #8 - #4. A very rare species.
+Ide: lives at Alamo east shore, Upper Cassidy Creek and one more. It feeds by day, water between 8 and 20 degrees. Baits: Grasshoppers, Flies, Crickets. Hook #4 - #4/0.
+Indo-Pacific King Mackerel: lives at San Chianski islet. It feeds by day, water between 24 and 30 degrees. Baits: Japanese Jack Mackerel, Finger Mullets, Scaled Sardines. Hook #2/0 - #5/0. A very rare species.
+Japanese Amberjack: lives at Vespucci Beach and Del Perro Pier and Pacific Bluffs beach. It feeds by day, water between 18 and 28 degrees. Baits: Shrimps, Japanese Jack Mackerel, Finger Mullets. Hook #3/0 - #7/0. A very rare species.
+Japanese Anchovy: lives at Vespucci Beach and Del Perro Pier and Chumash beach and pier. It feeds at night, water between 12 and 22 degrees. Baits: Natural Eggs, Spawn Sacks, Sea Worms. Hook #6. A rare species.
+Japanese Jack Mackerel: lives at Chumash beach and pier. It feeds at dawn and dusk, water between 12 and 22 degrees. Baits: Shrimps, Sea Worms, Finger Mullets. Hook #6 - #1. A rare species.
+Lake Chub: lives at Land Act north. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Semolina Balls, Red Worms, Bloodworms. Hook #8. A rare species.
+Lake Sturgeon: lives at Mount Chiliad. It feeds at night, water between 8 and 20 degrees. Baits: Small Cutbait, Crawfish, Shrimps. Hook #3/0 - #7/0. A rare species.
+Lake Trout: lives at Land Act north. It feeds at dawn and dusk, water between 1 and 10 degrees. Baits: Shiners, Spawn Sacks. Hook #1/0 - #5/0. A very rare species.
+Lake Whitefish: lives at Land Act north. It feeds at dawn and dusk, water between 1 and 10 degrees. Baits: Grasshoppers, Flies, MayFlies. Hook #1 - #2/0. A very rare species.
+Largemouth Bass: lives at Zancudo mouth, Lower Zancudo River and 4 more. It feeds at dawn and dusk, water between 15 and 28 degrees. Baits: Shiners, Small Minnows. Hook #4 - #4/0.
+Leather Carp: lives at Grapeseed and Alamo north-east shore. It feeds at dawn and dusk, water between 15 and 28 degrees. Baits: Bread with Honey, Semolina Balls, Marshmallow. Hook #2 - #5/0. A rare species.
+Lenok: lives at Upper Cassidy Creek. It feeds by day, water between 4 and 16 degrees. Baits: Grasshoppers, Dragonfly, Bark Beetle Larva. Hook #2/0 - #4/0. A very rare species.
+Longnose Gar: lives at Lower Cassidy Creek and Palomino Highlands. It feeds at night, water between 15 and 28 degrees. Baits: Shiners, Large Minnow, Large Cutbait. Hook #1/0 - #6/0. A rare species.
+Longnose Sucker: lives at Upper Tongva Creek. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Semolina Balls, Marshmallow, Bloodworms. Hook #2 - #1/0. A rare species.
+Mahi-Mahi: lives at Chumash beach and pier and Pacific Bluffs beach. It feeds by day, water between 18 and 28 degrees. Baits: Gulf Shrimp, Japanese Jack Mackerel, Finger Mullets. Hook #4/0 - #7/0. A rare species.
+Marble Trout: lives at Lower Tongva Creek. It feeds at night, water between 4 and 16 degrees. Baits: MayFlies, Dragonfly, Natural Eggs. Hook #1/0 - #3/0. A very rare species.
+Meagre: lives at Paleto Cove pier and Paleto Bay east. It feeds at dawn and dusk, water between 3 and 12 degrees. Baits: Crab, Gulf Shrimp, Giant Tiger Prawn. Hook #5/0 - #9/0. A very rare species.
+Mirror Carp: lives at Sandy Shores, Grapeseed and 2 more. It feeds at dawn and dusk, water between 15 and 28 degrees. Baits: Bread with Honey, Semolina Balls, Marshmallow. Hook #2 - #5/0.
+Monkey Goby: lives at Alamo east shore. It feeds at night, water between 8 and 20 degrees. Baits: Red Worms, Maggots, Bloodworms. Hook #14. A rare species.
+Muskellunge: lives at Mount Chiliad and Alamo north shore. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Shiners, Large Minnow. Hook #3/0 - #9/0. A very rare species.
+Narrow-Barred Mackerel: lives at Vespucci Beach and Del Perro Pier and Chumash beach and pier. It feeds by day, water between 24 and 30 degrees. Baits: Gulf Shrimp, Japanese Jack Mackerel, Finger Mullets. Hook #4/0 - #7/0. A rare species.
+Northern Pike: lives at Alamo west shore, Sandy Shores and 12 more. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Shiners, Small Minnows. Hook #1/0 - #8/0.
+Norway Atlantic Salmon: lives at Paleto Cove pier and Paleto Bay east. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Crab, Gulf Shrimp, Giant Tiger Prawn. Hook #4/0 - #8/0. A very rare species.
+Norway Seaperch: lives at El Gordo Lighthouse and Paleto Cove pier. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Shrimps, Giant Tiger Prawn, Scaled Sardines. Hook #3/0 - #6/0. A very rare species.
+Oregon Redband Trout: lives at Calafia Bridge. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Grasshoppers, Flies, Crickets. Hook #4 - #1/0. A very rare species.
+Oscar: lives at Zancudo marsh east and Palomino Highlands. It feeds at any hour, water between 24 and 32 degrees. Baits: Semolina Balls, Marshmallow, Red Worms. Hook #6 - #1.
+Pacific Bluefin Tuna: lives at Vespucci Beach and Del Perro Pier and Chumash beach and pier. It feeds by day, water between 12 and 22 degrees. Baits: Japanese Jack Mackerel, Finger Mullets, Scaled Sardines. Hook #5/0 - #9/0. A rare species.
+Permit: lives at Palomino Highlands. It feeds by day, water between 18 and 28 degrees. Baits: Shrimps, Mussel Meat, Crab. Hook #2/0 - #7/0. A very rare species.
+Pink Salmon: lives at Upper Tongva Creek. It feeds by day, water between 4 and 16 degrees. Baits: Dragonfly, Shiners, Spawn Sacks. Hook #1/0 - #3/0. A very rare species.
+Porbeagle Shark: lives at Paleto Bay west and Paleto Bay east. It feeds by day, water between 3 and 12 degrees. Baits: Large Fish Strips, Gutted Fish, Fish Head. Hook #9/0 - #14/0. A very rare species.
+Prussian Carp: lives at Sandy Shores, Alamo east shore and 3 more. It feeds at dawn and dusk, water between 15 and 28 degrees. Baits: Dough Ball, Bread with Honey, Semolina Balls. Hook #8 - #4.
+Pumpkinseed: lives at Alamo west shore, Mount Chiliad and 7 more. It feeds by day, water between 15 and 28 degrees. Baits: Dough Ball, Semolina Balls, Red Worms. Hook #10 - #6.
+Rainbow Trout: lives at Land Act Dam and Land Act west. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Grasshoppers, Flies, MayFlies. Hook #2 - #3/0. A rare species.
+Red Drum: lives at Zancudo marsh east and Palomino Highlands. It feeds at any hour, water between 15 and 28 degrees. Baits: Shiners, Crawfish, Large Minnow. Hook #2/0 - #8/0. A rare species.
+Redbreast Sunfish: lives at Land Act west. It feeds by day, water between 15 and 28 degrees. Baits: Red Worms, Grasshoppers, Crickets. Hook #10. A rare species.
+Redear Sunfish: lives at Slab, Zancudo mouth and 6 more. It feeds by day, water between 15 and 28 degrees. Baits: Crickets, Maggots, Bloodworms. Hook #8 - #1/0.
+Redfin Pickerel: lives at Alamo west shore and Lower Cassidy Creek. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Small Minnows. Hook #1 - #2/0.
+Rock Bass: lives at Alamo north shore, Calafia Bridge and one more. It feeds by day, water between 8 and 20 degrees. Baits: Leeches, Night Crawler. Hook #6.
+Round Goby: lives at Sandy Shores, Alamo east shore and 2 more. It feeds at night, water between 8 and 20 degrees. Baits: Red Worms, Maggots, Bloodworms. Hook #14 - #8.
+Ruby Snapper: lives at Pacific Bluffs beach. It feeds at dawn and dusk, water between 24 and 30 degrees. Baits: Crab, Medium Fish Strips, Large Fish Strips. Hook #6/0 - #10/0. A rare species.
+Sailfish: lives at San Chianski islet. It feeds by day, water between 18 and 28 degrees. Baits: Japanese Jack Mackerel, Indian Ocean Squid, Finger Mullets. Hook #5/0 - #8/0. A very rare species.
+Sauger: lives at Vinewood Lake. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Leeches, Small Minnows. Hook #1/0 - #5/0. A very rare species.
+Sea Trout: lives at Paleto Bay west and Paleto Bay east. It feeds at night, water between 4 and 16 degrees. Baits: Crab, Gulf Shrimp, Giant Tiger Prawn. Hook #3/0 - #6/0. A very rare species.
+Shoal Bass: lives at Palomino Highlands. It feeds at dawn and dusk, water between 12 and 24 degrees. Baits: Shiners, Small Minnows. Hook #3/0 - #4/0. A very rare species.
+Siberian Taimen: lives at Upper Cassidy Creek. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Shiners, Large Minnow, Common Minnow. Hook #4/0 - #7/0. A very rare species.
+Sickle Pomfret: lives at San Chianski islet. It feeds at night, water between 24 and 30 degrees. Baits: Medium Fish Strips, Indo-Pacific Swimming Crab, Giant Tiger Prawn. Hook #4/0 - #7/0. A very rare species.
+Silver Bream: lives at Alamo east shore and Mirror Park. It feeds at night, water between 12 and 24 degrees. Baits: Semolina Balls, Red Worms, Maggots. Hook #10 - #8. A rare species.
+Silver Carp: lives at Sandy Shores and Alamo east shore. It feeds by day, water between 15 and 28 degrees. Baits: Bread, Corn, Peas. Hook #2/0 - #6/0. A rare species.
+Skipjack Tuna: lives at Chumash beach and pier and Pacific Bluffs beach. It feeds by day, water between 18 and 28 degrees. Baits: Japanese Jack Mackerel, Finger Mullets, Scaled Sardines. Hook #3/0 - #6/0. A rare species.
+Smallmouth Bass: lives at Zancudo mouth, Mount Chiliad and 4 more. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Shiners, Small Minnows. Hook #4 - #4/0.
+Smallmouth Buffalo: lives at Slab, Alamo south bank and one more. It feeds at dawn and dusk, water between 12 and 24 degrees. Baits: Semolina Balls, Corn, Bloodworms. Hook #6 - #1/0. A rare species.
+Sockeye Salmon: lives at Upper Tongva Creek. It feeds by day, water between 4 and 16 degrees. Baits: Dragonfly, Shiners, Spawn Sacks. Hook #2/0 - #5/0. A very rare species.
+Southern Flounder: lives at Palomino Highlands. It feeds at night, water between 15 and 28 degrees. Baits: Small Cutbait, Shrimps, Mussel Meat. Hook #1/0 - #5/0. A very rare species.
+Speckled Peacock Bass: lives at Palomino Highlands. It feeds by day, water between 24 and 32 degrees. Baits: Shiners, Large Minnow, Small Minnows. Hook #5/0 - #10/0. A rare species.
+Spiny Dogfish: lives at Paleto Cove pier and Paleto Bay east. It feeds at night, water between 3 and 12 degrees. Baits: Crab, Gulf Shrimp, Medium Fish Strips. Hook #2/0 - #4/0. A very rare species.
+Splake: lives at Land Act north. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Dragonfly, Artificial Salmon Eggs, Natural Eggs. Hook #1/0 - #3/0. A very rare species.
+Spotted Bass: lives at Slab, Alamo south bank and one more. It feeds at dawn and dusk, water between 12 and 24 degrees. Baits: Shiners, Natural Eggs, Small Minnows. Hook #1 - #4/0. A rare species.
+Spotted Gar: lives at Lower Zancudo River. It feeds at night, water between 15 and 28 degrees. Baits: Shiners, Large Minnow, Large Cutbait. Hook #1 - #2/0. A very rare species.
+Steelhead: lives at Zancudo mouth. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Grasshoppers, Spawn Sacks, Small Minnows. Hook #1/0 - #4/0. A very rare species.
+Sterlet: lives at Alamo east shore. It feeds at night, water between 8 and 20 degrees. Baits: Small Cutbait, Crawfish, Shrimps. Hook #4 - #2/0. A very rare species.
+Striped Bass: lives at Zancudo mouth and Palomino Highlands. It feeds at dawn and dusk, water between 12 and 24 degrees. Baits: Shiners, Large Cutbait, Crab. Hook #3/0 - #8/0. A rare species.
+Striped Bonito: lives at Vespucci Beach and Del Perro Pier. It feeds by day, water between 12 and 22 degrees. Baits: Shrimps, Gulf Shrimp, Japanese Jack Mackerel. Hook #2/0 - #6/0. A rare species.
+Striped Marlin: lives at San Chianski islet, Chumash beach and pier and one more. It feeds by day, water between 12 and 22 degrees. Baits: Japanese Jack Mackerel, Finger Mullets, Scaled Sardines. Hook #7/0 - #10/0. A rare species.
+Swordfish: lives at San Chianski islet. It feeds at night, water between 12 and 22 degrees. Baits: Japanese Jack Mackerel, Finger Mullets, Scaled Sardines. Hook #2/0 - #16/0. A very rare species.
+Tarpon: lives at Zancudo marsh east and Palomino Highlands. It feeds at night, water between 18 and 28 degrees. Baits: Dragonfly, Shiners, Large Minnow. Hook #4/0 - #9/0. A rare species.
+Tench: lives at Sandy Shores, Alamo east shore and 4 more. It feeds at night, water between 15 and 28 degrees. Baits: Red Worms, Bloodworms, Leeches. Hook #8 - #1.
+Thicklip Grey Mullet: lives at Cassidy mouth. It feeds by day, water between 12 and 24 degrees. Baits: Bread, Cheese, Dough Ball. Hook #6 - #2. A very rare species.
+Tiger Muskie: lives at Mount Chiliad. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Shiners, Large Minnow. Hook #2/0 - #8/0. A very rare species.
+Tiger Trout: lives at Alamo north shore. It feeds at dawn and dusk, water between 4 and 16 degrees. Baits: Dragonfly, Spawn Sacks, Shrimps. Hook #1 - #3/0. A very rare species.
+Walleye: lives at Alamo west shore and Alamo north shore. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Leeches, Small Minnows. Hook #2/0 - #6/0. A rare species.
+Warmouth: lives at Zancudo marsh west, Zancudo marsh east and one more. It feeds by day, water between 15 and 28 degrees. Baits: Red Worms, Grasshoppers, Crickets. Hook #10 - #2.
+Wels Catfish: lives at Sandy Shores, Alamo east shore and 4 more. It feeds at night, water between 15 and 28 degrees. Baits: Mole Cricket Larva, Leeches, Shiners. Hook #5/0 - #9/0.
+White Bass: lives at Mount Chiliad and Land Act Dam. It feeds at dawn and dusk, water between 12 and 24 degrees. Baits: Night Crawler, Small Minnows. Hook #2 - #2/0.
+White Catfish: lives at Zancudo mouth. It feeds at night, water between 15 and 28 degrees. Baits: Cheese, Leeches, Small Cutbait. Hook #2. A rare species.
+White Crappie: lives at Slab, Zancudo mouth and 5 more. It feeds at dawn and dusk, water between 12 and 24 degrees. Baits: Marshmallow, Maggots, Bloodworms. Hook #8 - #1/0.
+White Sturgeon: lives at Zancudo mouth. It feeds at night, water between 8 and 20 degrees. Baits: Crawfish, Large Cutbait. Hook #3/0 - #8/0. A rare species.
+White Sucker: lives at Land Act Dam and Land Act north. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Semolina Balls, Marshmallow. Hook #2 - #1/0.
+White-Eye Bream: lives at Alamo east shore. It feeds at night, water between 12 and 24 degrees. Baits: Semolina Balls, Red Worms, Maggots. Hook #14 - #10. A very rare species.
+Whiting: lives at El Gordo Lighthouse and Paleto Cove pier. It feeds at dawn and dusk, water between 3 and 12 degrees. Baits: Spawn Sacks, Shrimps, Mussel Meat. Hook #1/0 - #3/0. A very rare species.
+Yellow Perch: lives at Mount Chiliad, Alamo north shore and 2 more. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Red Worms, Bloodworms. Hook #8 - #3/0.
+Yellowfin Tuna: lives at Chumash beach and pier and Pacific Bluffs beach. It feeds by day, water between 18 and 28 degrees. Baits: Japanese Jack Mackerel, Finger Mullets, Scaled Sardines. Hook #5/0 - #8/0. A rare species.
+Zander: lives at Sandy Shores, Alamo east shore and 3 more. It feeds at dawn and dusk, water between 8 and 20 degrees. Baits: Leeches, Shiners, Small Minnows. Hook #1/0 - #6/0.
+Ziege: lives at Alamo east shore. It feeds at any hour, water between 8 and 20 degrees. Baits: Red Worms, Grasshoppers, Flies. Hook #12 - #8. A very rare species.
+Upper Cassidy Creek: 13 species live there and it needs level 48. The best paying fish: Northern Pike, Ide, Arctic Grayling.
+Lower Cassidy Creek: 13 species live there and it needs level 10. The best paying fish: Smallmouth Bass, Largemouth Bass, Redfin Pickerel.
+Land Act Dam: 8 species live there and it needs level 5. The best paying fish: Colorado Golden Trout, Rainbow Trout, Cutthroat Trout.
+El Gordo Lighthouse: 12 species live there and it needs level 100. The best paying fish: Norway Seaperch, European Angler, Haddock.
+Upper Zancudo River: 12 species live there and it needs level 24. The best paying fish: Zander, Northern Pike, Common Barbel.
+Lower Zancudo River: 15 species live there and it needs level 4. The best paying fish: Largemouth Bass, Chain Pickerel, Grass Pickerel.
+Cassidy mouth: 10 species live there and it needs level 12. The best paying fish: Zander, Northern Pike, Ide.
+Zancudo mouth: 12 species live there and it needs level 34. The best paying fish: Smallmouth Bass, Largemouth Bass, California Roach.
+Grapeseed: 15 species live there and it needs level 50. The best paying fish: Northern Pike, Chub, Golden Tench.
+San Chianski islet: 7 species live there and it needs level 94. The best paying fish: Sailfish, Striped Marlin, Swordfish.
+Golf course ponds: 6 species live there and it needs level 1. The best paying fish: Blacktail Shiner, Redear Sunfish, Golden Shiner.
+Vinewood Lake: 10 species live there and it needs level 8. The best paying fish: Sauger, Northern Pike, Chain Pickerel.
+Land Act north: 11 species live there and it needs level 22. The best paying fish: Northern Pike, Splake, Brook Trout.
+Land Act west: 6 species live there and it needs level 14. The best paying fish: Rainbow Trout, Redbreast Sunfish, Smallmouth Bass.
+Mirror Park: 9 species live there and it needs level 3. The best paying fish: Northern Pike, Tench, European Weatherfish.
+Paleto Cove pier: 12 species live there and it needs level 100. The best paying fish: Norway Seaperch, Cusk, Whiting.
+Mount Chiliad: 16 species live there and it needs level 30. The best paying fish: Northern Pike, Smallmouth Bass, Brown Trout.
+Paleto Bay east: 11 species live there and it needs level 100. The best paying fish: Atlantic Wolffish, European Hake, Atlantic Cod.
+Paleto Bay west: 11 species live there and it needs level 100. The best paying fish: Atlantic Wolffish, European Angler, European Hake.
+Palomino Highlands: 24 species live there and it needs level 54. The best paying fish: Shoal Bass, Speckled Peacock Bass, Warmouth.
+Zancudo marsh east: 15 species live there and it needs level 18. The best paying fish: Warmouth, Largemouth Bass, Butterfly Peacock Bass.
+Zancudo marsh west: 16 species live there and it needs level 26. The best paying fish: Spotted Bass, Warmouth, Largemouth Bass.
+Calafia Bridge: 6 species live there and it needs level 14. The best paying fish: Oregon Redband Trout, Cutthroat Trout, Smallmouth Bass.
+Alamo east shore: 32 species live there and it needs level 46. The best paying fish: Zander, Northern Pike, Ide.
+Alamo north shore: 16 species live there and it needs level 30. The best paying fish: Walleye, Northern Pike, Smallmouth Bass.
+Alamo north-east shore: 15 species live there and it needs level 42. The best paying fish: Zander, Northern Pike, Tench.
+Alamo west shore: 10 species live there and it needs level 8. The best paying fish: Walleye, Northern Pike, Chain Pickerel.
+Sandy Shores: 15 species live there and it needs level 42. The best paying fish: Zander, Northern Pike, Tench.
+Slab: 10 species live there and it needs level 2. The best paying fish: Spotted Bass, Grass Pickerel, Blacktail Shiner.
+Pacific Bluffs beach: 12 species live there and it needs level 83. The best paying fish: Ruby Snapper, Bigfin Reef Squid, Striped Marlin.
+Chumash beach and pier: 12 species live there and it needs level 83. The best paying fish: Bigfin Reef Squid, Striped Marlin, Mahi-Mahi.
+Alamo south bank: 10 species live there and it needs level 2. The best paying fish: Spotted Bass, Grass Pickerel, Blacktail Shiner.
+Upper Tongva Creek: 10 species live there and it needs level 38. The best paying fish: Alaska Blackfish, Northern Pike, Pink Salmon.
+Lower Tongva Creek: 14 species live there and it needs level 20. The best paying fish: Creek Brown Trout, European Grayling, Marble Trout.
+Vespucci Beach and Del Perro Pier: 11 species live there and it needs level 83. The best paying fish: Giant Trevally, Green Jobfish, Bigeye Tuna.
+Tournament Barbel Gent Hunt: Common Barbel at Lower Tongva Creek, 45 minutes, level 20, entry $1020. Gold at 24 kg, prize $14280.
+Tournament Bass Challenge: Largemouth Bass at Lower Zancudo River, 45 minutes, level 18, entry $930. Gold at 15 kg, prize $13020.
+Tournament Best Five Bass: Smallmouth Bass at Lower Cassidy Creek, 45 minutes, level 14, entry $750. Gold at 13 kg, prize $10500.
+Tournament Big Bowfin Hunting: Bowfin at Zancudo marsh east, 30 minutes, level 18, entry $390. Gold at 8 kg, prize $5460.
+Tournament Big Headhunters: Common Carp at Mirror Park, 45 minutes, level 42, entry $2010. Gold at 56 kg, prize $28140.
+Tournament Breaking shad: American Shad at Mount Chiliad, 30 minutes, level 30, entry $570. Gold at 12 kg, prize $7980.
+Tournament Carp Foundation: Common Carp at Upper Zancudo River, 60 minutes, level 42, entry $2010. Gold at 56 kg, prize $28140.
+Tournament Catch em' All: every fish of the lake at Golf course ponds, 30 minutes, level 4, entry $300. Gold at 5.5 kg, prize $4200.
+Tournament Catfish Trial: Channel Catfish at Slab, 45 minutes, level 26, entry $1290. Gold at 28 kg, prize $18060.
+Tournament Cats 'n Nightcatchers: Blue Catfish at Zancudo marsh west, 30 minutes, level 30, entry $1470. Gold at 72 kg, prize $20580.
+Tournament Cheesy cat: Channel Catfish at Alamo south bank, 30 minutes, level 8, entry $480. Gold at 9.5 kg, prize $6720.
+Tournament Cranky Pike: Northern Pike at Vinewood Lake, 45 minutes, level 13, entry $705. Gold at 16 kg, prize $9870.
+Tournament Dancing with Pike: Chain Pickerel at Alamo west shore, 30 minutes, level 26, entry $1290. Gold at 8 kg, prize $18060.
+Tournament Danger in the grass: Grass Carp at Alamo north-east shore, 45 minutes, level 42, entry $2010. Gold at 48 kg, prize $28140.
+Tournament Dream Bream Hunt: Common Bream at Cassidy mouth, 30 minutes, level 42, entry $2010. Gold at 13 kg, prize $28140.
+Tournament Emerald Predator Hunt: every fish of the lake at Land Act Dam, 45 minutes, level 5, entry $345. Gold at 5.5 kg, prize $4830.
+Tournament Exactly Zander: Zander at Sandy Shores, 45 minutes, level 42, entry $300. Gold at 5.5 kg, prize $4200.
+Tournament Fly like a Butterfly Swim like a Bass: Butterfly Peacock Bass at Palomino Highlands, 30 minutes, level 54, entry $930. Gold at 16 kg, prize $13020.
+Tournament Four Bloody Barbel: Common Barbel at Lower Tongva Creek, 45 minutes, level 20, entry $390. Gold at 8 kg, prize $5460.
+Tournament Grass Сutter Range: Grass Carp at Alamo east shore, 45 minutes, level 50, entry $2370. Gold at 48 kg, prize $33180.
+Tournament Ideal Accuracy: Ide at Upper Cassidy Creek, 30 minutes, level 48, entry $660. Gold at 7 kg, prize $9240.
+Tournament Idle Ide: Ide at Cassidy mouth, 45 minutes, level 12, entry $300. Gold at 5.5 kg, prize $4200.
+Tournament Jolly Carp: Common Carp at Zancudo mouth, 60 minutes, level 50, entry $2370. Gold at 56 kg, prize $33180.
+Tournament Kaniq Topwater Rodeo: every fish of the lake at Land Act west, 30 minutes, level 38, entry $1830. Gold at 38 kg, prize $25620.
+Tournament Length Matters: European Eel at Alamo north-east shore, 60 minutes, level 42, entry $660. Gold at 12 kg, prize $9240.
+Tournament Lucky Ghost Hunt: Ghost Carp at Grapeseed, 45 minutes, level 50, entry $2370. Gold at 40 kg, prize $33180.
+Tournament Lucky Spot: Spotted Bass at Golf course ponds, 45 minutes, level 26, entry $1290. Gold at 8 kg, prize $18060.
+Tournament Midnight Salmon Galore: Chinook Salmon at Upper Tongva Creek, 30 minutes, level 38, entry $1830. Gold at 64 kg, prize $25620.
+Tournament Mighty Three: Speckled Peacock Bass at Palomino Highlands, 45 minutes, level 54, entry $2550. Gold at 28 kg, prize $35700.
+Tournament Moonlight Gars: Alligator Gar at Zancudo marsh west, 30 minutes, level 31, entry $1515. Gold at 80 kg, prize $21210.
+Tournament Muskie Topping: Muskellunge at Alamo north shore, 30 minutes, level 30, entry $1470. Gold at 72 kg, prize $20580.
+Tournament Neherrin minimal: Black Crappie at Land Act Dam, 45 minutes, level 10, entry $570. Gold at 2.5 kg, prize $7980.
+Tournament Old Buck's Competition: Rainbow Trout at Calafia Bridge, 30 minutes, level 14, entry $480. Gold at 9.5 kg, prize $6720.
+Tournament One by one: every fish of the lake at Land Act north, 30 minutes, level 22, entry $480. Gold at 9.5 kg, prize $6720.
+Tournament One of us,Two of Asp: Asp at Alamo east shore, 45 minutes, level 46, entry $1020. Gold at 28 kg, prize $14280.
+Tournament Salmon Clash: Chinook Salmon at Zancudo mouth, 45 minutes, level 38, entry $1830. Gold at 64 kg, prize $25620.
+Tournament Saltwater Giants: every fish of the lake at Pacific Bluffs beach, 60 minutes, level 83, entry $2550. Gold at 38 kg, prize $35700.
+Tournament San Joaquin Extravaganza: every fish of the lake at Chumash beach and pier, 60 minutes, level 83, entry $1650. Gold at 38 kg, prize $23100.
+Tournament School Bass: Largemouth Bass at Lower Zancudo River, 30 minutes, level 4, entry $300. Gold at 5.5 kg, prize $4200.
+Tournament Scores from the bottom: every fish of the lake at Vespucci Beach and Del Perro Pier, 45 minutes, level 83, entry $660. Gold at 12 kg, prize $9240.
+Tournament Spin The Trout: Rainbow Trout at Land Act west, 45 minutes, level 20, entry $1020. Gold at 12 kg, prize $14280.
+Tournament Spinning Perch: European Perch at Mirror Park, 45 minutes, level 4, entry $300. Gold at 5 kg, prize $4200.
+Tournament Steelhead Showdown: Steelhead at Zancudo mouth, 45 minutes, level 34, entry $1650. Gold at 48 kg, prize $23100.
+Tournament Sturgeon in the Dark: White Sturgeon at Zancudo mouth, 45 minutes, level 36, entry $1740. Gold at 120 kg, prize $24360.
+Tournament Teenies in the Night: every fish of the lake at San Chianski islet, 45 minutes, level 94, entry $2010. Gold at 38 kg, prize $28140.
+Tournament The Battle of Kaniq: every fish of the lake at El Gordo Lighthouse, 30 minutes, level 100, entry $1830. Gold at 38 kg, prize $25620.
+Tournament The Size Matters: Brown Trout at Calafia Bridge, 30 minutes, level 30, entry $1470. Gold at 23 kg, prize $20580.
+Tournament Top Notch Walleye: Walleye at Vinewood Lake, 30 minutes, level 30, entry $1470. Gold at 16 kg, prize $20580.
+Tournament Trout Hunter: Rainbow Trout at Land Act Dam, 30 minutes, level 14, entry $750. Gold at 12 kg, prize $10500.
+Tournament Yellow Perch Goldrush: Yellow Perch at Alamo west shore, 30 minutes, level 8, entry $345. Gold at 4 kg, prize $4830.
+Tournament Zander Zeek Differences: Zander at Upper Zancudo River, 45 minutes, level 24, entry $660. Gold at 12 kg, prize $9240.

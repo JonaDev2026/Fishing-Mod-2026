@@ -8229,9 +8229,12 @@ public class Pesca : Script
     void DisegnaSuggerimento()
     {
         if (!inPesca) { suggProssimo = 0; suggTesto = ""; return; }
+        // solo fino a un certo livello (sugg_fino_livello, 0 = sempre)
+        int finoA = (int)LeggiF("sugg_fino_livello", 50f);
+        if (finoA > 0 && livelloPescatore > finoA) { suggTesto = ""; return; }
         if (suggLang != lang) CaricaSuggerimenti();
         int ora = OraPc();
-        int ogni = (int)(LeggiF("sugg_ogni_min", 5f) * 60000f);
+        int ogni = (int)(LeggiF("sugg_ogni_min", 2f) * 60000f);
         if (suggProssimo == 0) suggProssimo = ora + ogni;
         if (suggTesto.Length == 0 && ora >= suggProssimo)
         {
