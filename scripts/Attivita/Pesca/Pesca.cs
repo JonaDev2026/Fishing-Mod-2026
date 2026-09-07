@@ -9945,6 +9945,7 @@ public class Pesca : Script
     int strappoDa = 0;        // quando puo' ripartire
     float strappoForza = 0f;
     float stanchezza = 0f;    // 0..1: quanto si e' consumato il pesce
+    bool corsaRivaFatta = false;   // la corsa della riva, una per pesce
     int clickPesce = 0;
 
     // IL PESCE APPENA PRESO: resta li' finche' non decidi.
@@ -11305,6 +11306,7 @@ public class Pesca : Script
                 rotturaDa = 0;
                 recuperato = 0f;
                 stanchezza = 0f;
+                corsaRivaFatta = false;
                 strappoFine = 0;
                 strappoDa = 0;
                 corsaFine = 0;
@@ -11536,8 +11538,13 @@ public class Pesca : Script
             // ---- ogni tanto il pesce parte ----
             // SI STANCA. Piu' lo contrasti piu' si consuma, e da stanco
             // tira meno forte, per meno tempo, con pause piu' lunghe.
-            stanchezza += (0.05f + spinta * 0.09f) * dtL;
-            if (stanchezza > 1f) stanchezza = 1f;
+            // in proporzione al peso: un pesce vicino a quello che reggi
+            // si stanca piano, un pesciolino subito. E non muore mai del
+            // tutto (stanchezza_max): ogni tanto riparte fino alla fine.
+            stanchezza += (0.05f + spinta * 0.09f) * dtL * (1.3f - forza);
+            float stMax = LeggiF("stanchezza_max", 0.85f);
+            if (stMax < 0.3f) stMax = 0.3f; if (stMax > 1f) stMax = 1f;
+            if (stanchezza > stMax) stanchezza = stMax;
 
             if (now > strappoFine && now > strappoDa)
             {
@@ -11608,6 +11615,19 @@ public class Pesca : Script
                     corsaVerso = (caso.Next(2) == 0) ? 1f : -1f;
                     Vibra(duraC > 2000 ? 600 : 400, 160 + (int)(forza * 90f));
                 }
+            }
+            // LA CORSA DELLA RIVA: la prima volta che vede la riva, sotto
+            // riva_metri, parte una volta sola, forte, poi si impunta
+            if (!corsaRivaFatta && metriLenza < LeggiF("riva_metri", 4f) && now >= corsaFine)
+            {
+                corsaRivaFatta = true;
+                int duraR = 1000 + caso.Next(1000);
+                corsaFine = now + duraR;
+                corsaProssima = corsaFine + 3000;
+                float metriR = LeggiF("riva_corsa_metri", 3f) + (float)caso.NextDouble() * LeggiF("riva_corsa_metri_piu", 3f);
+                corsaMetriSec = metriR / (duraR / 1000f);
+                corsaVerso = (caso.Next(2) == 0) ? 1f : -1f;
+                Vibra(600, 200 + (int)(forza * 55f));
             }
             if (now < corsaFine)
             {
